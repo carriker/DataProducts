@@ -1,5 +1,9 @@
 ## Lifetime Income Estimator
 
+*Wayne Carriker*
+
+*October 14, 2015*
+
 This application will estimate your lifetime earning potential based on your
 current age, your gender, your education level, and a range of working years.
 It will also take into account whether or not you have completed the Data

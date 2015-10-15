@@ -1,3 +1,7 @@
+# server.R
+# Wayne Carriker
+# October 14, 2015
+
 # load the data and get the current year
 # if loading the data from the 'census.csv' file doesn't work, then
 # brute force build the data data.frame in helper.R

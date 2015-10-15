@@ -1,3 +1,7 @@
+# ui.R
+# Wayne Carriker
+# October 14, 2015
+
 shinyUI(pageWithSidebar(
   headerPanel("Lifetime Income Predictor*"),
   sidebarPanel(
