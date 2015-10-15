@@ -1,5 +1,10 @@
 # load the data and get the current year
+# if loading the data from the 'census.csv' file doesn't work, then
+# brute force build the data data.frame in helper.R
 data <- read.csv("census.csv")
+if (length(data$Income) != 2700) {
+    source("helper.R")
+}
 current_year <- as.integer(strsplit(date(), split = " ")[[1]][5])
 
 # build factor lists to allow converting inputs to factors

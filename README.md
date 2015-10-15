@@ -8,7 +8,7 @@ Science specialization from Coursera!
 The income model is based on US census data from 1991 to 2014 for workers
 ranging from 18 to 65+ years of age. The application will try to extrapolate
 to working years as early as 1976 and as far into the future as 2030, but
-it won't allow for a working years before your were 18, nor will it allow
+it won't allow for a working year before your were 18, nor will it allow
 a retirement year that is less than or equal to a staring work year.
 
 To use the application, simply move the age slider to your current age,
