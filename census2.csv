@@ -1,0 +1,2701 @@
+Year,Age_Group,Gender,Education_Level,Samples,Income
+1991,18 to 24 years,Male,Less than 9th Grade,149,12327
+1991,25 to 34 years,Male,Less than 9th Grade,394,15853
+1991,35 to 44 years,Male,Less than 9th Grade,386,19972
+1991,45 to 54 years,Male,Less than 9th Grade,426,20713
+1991,55 to 64 years,Male,Less than 9th Grade,482,22274
+1991,65 years and over,Male,Less than 9th Grade,119,16479
+1991,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1991,25 to 34 years,Female,Less than 9th Grade,143,12521
+1991,35 to 44 years,Female,Less than 9th Grade,173,12255
+1991,45 to 54 years,Female,Less than 9th Grade,214,12319
+1991,55 to 64 years,Female,Less than 9th Grade,150,13201
+1991,65 years and over,Female,Less than 9th Grade,NA,NA
+1991,18 to 24 years,Male,High School Graduate (includes equivalency),1768,16559
+1991,25 to 34 years,Male,High School Graduate (includes equivalency),5548,24045
+1991,35 to 44 years,Male,High School Graduate (includes equivalency),4475,28984
+1991,45 to 54 years,Male,High School Graduate (includes equivalency),3087,32468
+1991,55 to 64 years,Male,High School Graduate (includes equivalency),1654,32484
+1991,65 years and over,Male,High School Graduate (includes equivalency),260,27165
+1991,18 to 24 years,Female,High School Graduate (includes equivalency),1326,13558
+1991,25 to 34 years,Female,High School Graduate (includes equivalency),3287,18269
+1991,35 to 44 years,Female,High School Graduate (includes equivalency),3460,19824
+1991,45 to 54 years,Female,High School Graduate (includes equivalency),2657,20342
+1991,55 to 64 years,Female,High School Graduate (includes equivalency),1351,18914
+1991,65 years and over,Female,High School Graduate (includes equivalency),182,17757
+1991,18 to 24 years,Male,Associate Degree,167,19114
+1991,25 to 34 years,Male,Associate Degree,933,29923
+1991,35 to 44 years,Male,Associate Degree,1213,37887
+1991,45 to 54 years,Male,Associate Degree,466,41796
+1991,55 to 64 years,Male,Associate Degree,245,32695
+1991,65 years and over,Male,Associate Degree,NA,NA
+1991,18 to 24 years,Female,Associate Degree,190,17979
+1991,25 to 34 years,Female,Associate Degree,934,23120
+1991,35 to 44 years,Female,Associate Degree,904,27329
+1991,45 to 54 years,Female,Associate Degree,495,26035
+1991,55 to 64 years,Female,Associate Degree,160,28168
+1991,65 years and over,Female,Associate Degree,NA,NA
+1991,18 to 24 years,Male,Bachelor's Degree,255,22479
+1991,25 to 34 years,Male,Bachelor's Degree,2739,36198
+1991,35 to 44 years,Male,Bachelor's Degree,2971,46238
+1991,45 to 54 years,Male,Bachelor's Degree,1778,50715
+1991,55 to 64 years,Male,Bachelor's Degree,770,53008
+1991,65 years and over,Male,Bachelor's Degree,197,45954
+1991,18 to 24 years,Female,Bachelor's Degree,362,20556
+1991,25 to 34 years,Female,Bachelor's Degree,2296,28021
+1991,35 to 44 years,Female,Bachelor's Degree,1687,32192
+1991,45 to 54 years,Female,Bachelor's Degree,892,31586
+1991,55 to 64 years,Female,Bachelor's Degree,319,29684
+1991,65 years and over,Female,Bachelor's Degree,NA,NA
+1991,18 to 24 years,Male,Master's Degree,NA,NA
+1991,25 to 34 years,Male,Master's Degree,608,47934
+1991,35 to 44 years,Male,Master's Degree,1141,53819
+1991,45 to 54 years,Male,Master's Degree,944,58532
+1991,55 to 64 years,Male,Master's Degree,347,52603
+1991,65 years and over,Male,Master's Degree,NA,NA
+1991,18 to 24 years,Female,Master's Degree,NA,NA
+1991,25 to 34 years,Female,Master's Degree,430,34596
+1991,35 to 44 years,Female,Master's Degree,808,36753
+1991,45 to 54 years,Female,Master's Degree,561,39579
+1991,55 to 64 years,Female,Master's Degree,190,35601
+1991,65 years and over,Female,Master's Degree,NA,NA
+1991,18 to 24 years,Male,Professional Degree,NA,NA
+1991,25 to 34 years,Male,Professional Degree,226,61038
+1991,35 to 44 years,Male,Professional Degree,443,80719
+1991,45 to 54 years,Male,Professional Degree,283,86440
+1991,55 to 64 years,Male,Professional Degree,148,89933
+1991,65 years and over,Male,Professional Degree,NA,NA
+1991,18 to 24 years,Female,Professional Degree,NA,NA
+1991,25 to 34 years,Female,Professional Degree,111,43429
+1991,35 to 44 years,Female,Professional Degree,118,61484
+1991,45 to 54 years,Female,Professional Degree,NA,NA
+1991,55 to 64 years,Female,Professional Degree,NA,NA
+1991,65 years and over,Female,Professional Degree,NA,NA
+1991,18 to 24 years,Male,Doctorate Degree,NA,NA
+1991,25 to 34 years,Male,Doctorate Degree,NA,NA
+1991,35 to 44 years,Male,Doctorate Degree,219,65384
+1991,45 to 54 years,Male,Doctorate Degree,233,61837
+1991,55 to 64 years,Male,Doctorate Degree,124,78126
+1991,65 years and over,Male,Doctorate Degree,NA,NA
+1991,18 to 24 years,Female,Doctorate Degree,NA,NA
+1991,25 to 34 years,Female,Doctorate Degree,NA,NA
+1991,35 to 44 years,Female,Doctorate Degree,NA,NA
+1991,45 to 54 years,Female,Doctorate Degree,NA,NA
+1991,55 to 64 years,Female,Doctorate Degree,NA,NA
+1991,65 years and over,Female,Doctorate Degree,NA,NA
+1991,18 to 24 years,Male,9th to 12th Grade (no diploma),466,13694
+1991,25 to 34 years,Male,9th to 12th Grade (no diploma),916,19596
+1991,35 to 44 years,Male,9th to 12th Grade (no diploma),818,23770
+1991,45 to 54 years,Male,9th to 12th Grade (no diploma),678,25277
+1991,55 to 64 years,Male,9th to 12th Grade (no diploma),571,29491
+1991,65 years and over,Male,9th to 12th Grade (no diploma),100,18926
+1991,18 to 24 years,Female,9th to 12th Grade (no diploma),189,11253
+1991,25 to 34 years,Female,9th to 12th Grade (no diploma),408,13849
+1991,35 to 44 years,Female,9th to 12th Grade (no diploma),495,15037
+1991,45 to 54 years,Female,9th to 12th Grade (no diploma),535,16854
+1991,55 to 64 years,Female,9th to 12th Grade (no diploma),305,15116
+1991,65 years and over,Female,9th to 12th Grade (no diploma),77,15833
+1991,18 to 24 years,Male,Some College (no degree),834,16479
+1991,25 to 34 years,Male,Some College (no degree),2665,28135
+1991,35 to 44 years,Male,Some College (no degree),2786,34377
+1991,45 to 54 years,Male,Some College (no degree),1708,41121
+1991,55 to 64 years,Male,Some College (no degree),742,35291
+1991,65 years and over,Male,Some College (no degree),133,30365
+1991,18 to 24 years,Female,Some College (no degree),884,14850
+1991,25 to 34 years,Female,Some College (no degree),1891,20993
+1991,35 to 44 years,Female,Some College (no degree),1987,24100
+1991,45 to 54 years,Female,Some College (no degree),1185,23369
+1991,55 to 64 years,Female,Some College (no degree),500,24049
+1991,65 years and over,Female,Some College (no degree),NA,NA
+1992,18 to 24 years,Male,Less than 9th Grade,150,12760
+1992,25 to 34 years,Male,Less than 9th Grade,410,15471
+1992,35 to 44 years,Male,Less than 9th Grade,411,18125
+1992,45 to 54 years,Male,Less than 9th Grade,449,22096
+1992,55 to 64 years,Male,Less than 9th Grade,457,22287
+1992,65 years and over,Male,Less than 9th Grade,88,21464
+1992,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1992,25 to 34 years,Female,Less than 9th Grade,125,13156
+1992,35 to 44 years,Female,Less than 9th Grade,199,14187
+1992,45 to 54 years,Female,Less than 9th Grade,180,14462
+1992,55 to 64 years,Female,Less than 9th Grade,155,12736
+1992,65 years and over,Female,Less than 9th Grade,NA,NA
+1992,18 to 24 years,Male,High School Graduate (includes equivalency),1690,16916
+1992,25 to 34 years,Male,High School Graduate (includes equivalency),5088,24403
+1992,35 to 44 years,Male,High School Graduate (includes equivalency),4579,30226
+1992,45 to 54 years,Male,High School Graduate (includes equivalency),3161,33182
+1992,55 to 64 years,Male,High School Graduate (includes equivalency),1645,30891
+1992,65 years and over,Male,High School Graduate (includes equivalency),249,26820
+1992,18 to 24 years,Female,High School Graduate (includes equivalency),1190,14653
+1992,25 to 34 years,Female,High School Graduate (includes equivalency),3219,18874
+1992,35 to 44 years,Female,High School Graduate (includes equivalency),3452,20374
+1992,45 to 54 years,Female,High School Graduate (includes equivalency),2722,20732
+1992,55 to 64 years,Female,High School Graduate (includes equivalency),1426,19703
+1992,65 years and over,Female,High School Graduate (includes equivalency),207,20214
+1992,18 to 24 years,Male,Associate Degree,249,19727
+1992,25 to 34 years,Male,Associate Degree,1118,29676
+1992,35 to 44 years,Male,Associate Degree,1189,36581
+1992,45 to 54 years,Male,Associate Degree,652,40781
+1992,55 to 64 years,Male,Associate Degree,223,39206
+1992,65 years and over,Male,Associate Degree,21,47103
+1992,18 to 24 years,Female,Associate Degree,254,17174
+1992,25 to 34 years,Female,Associate Degree,984,24166
+1992,35 to 44 years,Female,Associate Degree,920,27529
+1992,45 to 54 years,Female,Associate Degree,526,27415
+1992,55 to 64 years,Female,Associate Degree,202,25391
+1992,65 years and over,Female,Associate Degree,NA,NA
+1992,18 to 24 years,Male,Bachelor's Degree,274,27111
+1992,25 to 34 years,Male,Bachelor's Degree,3026,37552
+1992,35 to 44 years,Male,Bachelor's Degree,3023,49695
+1992,45 to 54 years,Male,Bachelor's Degree,1701,52481
+1992,55 to 64 years,Male,Bachelor's Degree,812,50023
+1992,65 years and over,Male,Bachelor's Degree,158,48878
+1992,18 to 24 years,Female,Bachelor's Degree,420,19924
+1992,25 to 34 years,Female,Bachelor's Degree,2338,28938
+1992,35 to 44 years,Female,Bachelor's Degree,1801,33541
+1992,45 to 54 years,Female,Bachelor's Degree,1055,33412
+1992,55 to 64 years,Female,Bachelor's Degree,358,32713
+1992,65 years and over,Female,Bachelor's Degree,NA,NA
+1992,18 to 24 years,Male,Master's Degree,NA,NA
+1992,25 to 34 years,Male,Master's Degree,611,45232
+1992,35 to 44 years,Male,Master's Degree,1116,54631
+1992,45 to 54 years,Male,Master's Degree,1030,59070
+1992,55 to 64 years,Male,Master's Degree,383,50912
+1992,65 years and over,Male,Master's Degree,NA,NA
+1992,18 to 24 years,Female,Master's Degree,NA,NA
+1992,25 to 34 years,Female,Master's Degree,413,34644
+1992,35 to 44 years,Female,Master's Degree,862,36927
+1992,45 to 54 years,Female,Master's Degree,690,38682
+1992,55 to 64 years,Female,Master's Degree,203,39152
+1992,65 years and over,Female,Master's Degree,NA,NA
+1992,18 to 24 years,Male,Professional Degree,NA,NA
+1992,25 to 34 years,Male,Professional Degree,262,53045
+1992,35 to 44 years,Male,Professional Degree,434,101483
+1992,45 to 54 years,Male,Professional Degree,364,96509
+1992,55 to 64 years,Male,Professional Degree,174,92963
+1992,65 years and over,Male,Professional Degree,NA,NA
+1992,18 to 24 years,Female,Professional Degree,NA,NA
+1992,25 to 34 years,Female,Professional Degree,109,45730
+1992,35 to 44 years,Female,Professional Degree,117,64840
+1992,45 to 54 years,Female,Professional Degree,76,64721
+1992,55 to 64 years,Female,Professional Degree,NA,NA
+1992,65 years and over,Female,Professional Degree,NA,NA
+1992,18 to 24 years,Male,Doctorate Degree,NA,NA
+1992,25 to 34 years,Male,Doctorate Degree,85,47987
+1992,35 to 44 years,Male,Doctorate Degree,246,64916
+1992,45 to 54 years,Male,Doctorate Degree,247,75486
+1992,55 to 64 years,Male,Doctorate Degree,137,66066
+1992,65 years and over,Male,Doctorate Degree,NA,NA
+1992,18 to 24 years,Female,Doctorate Degree,NA,NA
+1992,25 to 34 years,Female,Doctorate Degree,NA,NA
+1992,35 to 44 years,Female,Doctorate Degree,84,49028
+1992,45 to 54 years,Female,Doctorate Degree,84,48007
+1992,55 to 64 years,Female,Doctorate Degree,NA,NA
+1992,65 years and over,Female,Doctorate Degree,NA,NA
+1992,18 to 24 years,Male,9th to 12th Grade (no diploma),507,14101
+1992,25 to 34 years,Male,9th to 12th Grade (no diploma),1004,19054
+1992,35 to 44 years,Male,9th to 12th Grade (no diploma),788,23059
+1992,45 to 54 years,Male,9th to 12th Grade (no diploma),652,25980
+1992,55 to 64 years,Male,9th to 12th Grade (no diploma),500,28888
+1992,65 years and over,Male,9th to 12th Grade (no diploma),66,25176
+1992,18 to 24 years,Female,9th to 12th Grade (no diploma),166,12818
+1992,25 to 34 years,Female,9th to 12th Grade (no diploma),461,14809
+1992,35 to 44 years,Female,9th to 12th Grade (no diploma),404,14136
+1992,45 to 54 years,Female,9th to 12th Grade (no diploma),461,16756
+1992,55 to 64 years,Female,9th to 12th Grade (no diploma),278,15223
+1992,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1992,18 to 24 years,Male,Some College (no degree),890,16217
+1992,25 to 34 years,Male,Some College (no degree),2575,28118
+1992,35 to 44 years,Male,Some College (no degree),2817,35219
+1992,45 to 54 years,Male,Some College (no degree),1815,39762
+1992,55 to 64 years,Male,Some College (no degree),737,38804
+1992,65 years and over,Male,Some College (no degree),121,37637
+1992,18 to 24 years,Female,Some College (no degree),818,14493
+1992,25 to 34 years,Female,Some College (no degree),1988,21481
+1992,35 to 44 years,Female,Some College (no degree),2094,23408
+1992,45 to 54 years,Female,Some College (no degree),1284,25425
+1992,55 to 64 years,Female,Some College (no degree),480,25929
+1992,65 years and over,Female,Some College (no degree),NA,NA
+1993,18 to 24 years,Male,Less than 9th Grade,178,11045
+1993,25 to 34 years,Male,Less than 9th Grade,422,15860
+1993,35 to 44 years,Male,Less than 9th Grade,425,18123
+1993,45 to 54 years,Male,Less than 9th Grade,475,20085
+1993,55 to 64 years,Male,Less than 9th Grade,360,21994
+1993,65 years and over,Male,Less than 9th Grade,107,14939
+1993,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1993,25 to 34 years,Female,Less than 9th Grade,131,11878
+1993,35 to 44 years,Female,Less than 9th Grade,189,13040
+1993,45 to 54 years,Female,Less than 9th Grade,221,13377
+1993,55 to 64 years,Female,Less than 9th Grade,165,13504
+1993,65 years and over,Female,Less than 9th Grade,NA,NA
+1993,18 to 24 years,Male,High School Graduate (includes equivalency),1825,16299
+1993,25 to 34 years,Male,High School Graduate (includes equivalency),5015,25532
+1993,35 to 44 years,Male,High School Graduate (includes equivalency),4552,31675
+1993,45 to 54 years,Male,High School Graduate (includes equivalency),3167,35783
+1993,55 to 64 years,Male,High School Graduate (includes equivalency),1614,32216
+1993,65 years and over,Male,High School Graduate (includes equivalency),251,24011
+1993,18 to 24 years,Female,High School Graduate (includes equivalency),1083,14774
+1993,25 to 34 years,Female,High School Graduate (includes equivalency),2960,19151
+1993,35 to 44 years,Female,High School Graduate (includes equivalency),3328,21821
+1993,45 to 54 years,Female,High School Graduate (includes equivalency),2646,21471
+1993,55 to 64 years,Female,High School Graduate (includes equivalency),1365,21548
+1993,65 years and over,Female,High School Graduate (includes equivalency),206,20757
+1993,18 to 24 years,Male,Associate Degree,206,19321
+1993,25 to 34 years,Male,Associate Degree,1152,31355
+1993,35 to 44 years,Male,Associate Degree,1387,36679
+1993,45 to 54 years,Male,Associate Degree,736,40627
+1993,55 to 64 years,Male,Associate Degree,246,39721
+1993,65 years and over,Male,Associate Degree,NA,NA
+1993,18 to 24 years,Female,Associate Degree,288,17427
+1993,25 to 34 years,Female,Associate Degree,1114,23990
+1993,35 to 44 years,Female,Associate Degree,1039,28542
+1993,45 to 54 years,Female,Associate Degree,647,27883
+1993,55 to 64 years,Female,Associate Degree,222,25102
+1993,65 years and over,Female,Associate Degree,NA,NA
+1993,18 to 24 years,Male,Bachelor's Degree,308,26056
+1993,25 to 34 years,Male,Bachelor's Degree,2909,40345
+1993,35 to 44 years,Male,Bachelor's Degree,3274,51794
+1993,45 to 54 years,Male,Bachelor's Degree,2063,58584
+1993,55 to 64 years,Male,Bachelor's Degree,756,54555
+1993,65 years and over,Male,Bachelor's Degree,175,54315
+1993,18 to 24 years,Female,Bachelor's Degree,379,21493
+1993,25 to 34 years,Female,Bachelor's Degree,2305,30256
+1993,35 to 44 years,Female,Bachelor's Degree,1893,33615
+1993,45 to 54 years,Female,Bachelor's Degree,1138,36026
+1993,55 to 64 years,Female,Bachelor's Degree,363,41744
+1993,65 years and over,Female,Bachelor's Degree,NA,NA
+1993,18 to 24 years,Male,Master's Degree,NA,NA
+1993,25 to 34 years,Male,Master's Degree,546,44206
+1993,35 to 44 years,Male,Master's Degree,1145,60360
+1993,45 to 54 years,Male,Master's Degree,1013,68207
+1993,55 to 64 years,Male,Master's Degree,366,57183
+1993,65 years and over,Male,Master's Degree,NA,NA
+1993,18 to 24 years,Female,Master's Degree,NA,NA
+1993,25 to 34 years,Female,Master's Degree,449,36708
+1993,35 to 44 years,Female,Master's Degree,837,45677
+1993,45 to 54 years,Female,Master's Degree,644,40423
+1993,55 to 64 years,Female,Master's Degree,212,39233
+1993,65 years and over,Female,Master's Degree,NA,NA
+1993,18 to 24 years,Male,Professional Degree,NA,NA
+1993,25 to 34 years,Male,Professional Degree,199,56004
+1993,35 to 44 years,Male,Professional Degree,469,109786
+1993,45 to 54 years,Male,Professional Degree,351,149786
+1993,55 to 64 years,Male,Professional Degree,153,112745
+1993,65 years and over,Male,Professional Degree,NA,NA
+1993,18 to 24 years,Female,Professional Degree,NA,NA
+1993,25 to 34 years,Female,Professional Degree,79,51419
+1993,35 to 44 years,Female,Professional Degree,149,69372
+1993,45 to 54 years,Female,Professional Degree,NA,NA
+1993,55 to 64 years,Female,Professional Degree,NA,NA
+1993,65 years and over,Female,Professional Degree,NA,NA
+1993,18 to 24 years,Male,Doctorate Degree,NA,NA
+1993,25 to 34 years,Male,Doctorate Degree,131,56873
+1993,35 to 44 years,Male,Doctorate Degree,229,82081
+1993,45 to 54 years,Male,Doctorate Degree,298,104205
+1993,55 to 64 years,Male,Doctorate Degree,129,61359
+1993,65 years and over,Male,Doctorate Degree,NA,NA
+1993,18 to 24 years,Female,Doctorate Degree,NA,NA
+1993,25 to 34 years,Female,Doctorate Degree,NA,NA
+1993,35 to 44 years,Female,Doctorate Degree,87,53555
+1993,45 to 54 years,Female,Doctorate Degree,93,53397
+1993,55 to 64 years,Female,Doctorate Degree,NA,NA
+1993,65 years and over,Female,Doctorate Degree,NA,NA
+1993,18 to 24 years,Male,9th to 12th Grade (no diploma),399,15812
+1993,25 to 34 years,Male,9th to 12th Grade (no diploma),1113,19796
+1993,35 to 44 years,Male,9th to 12th Grade (no diploma),739,24755
+1993,45 to 54 years,Male,9th to 12th Grade (no diploma),624,26398
+1993,55 to 64 years,Male,9th to 12th Grade (no diploma),511,28200
+1993,65 years and over,Male,9th to 12th Grade (no diploma),96,22468
+1993,18 to 24 years,Female,9th to 12th Grade (no diploma),147,11792
+1993,25 to 34 years,Female,9th to 12th Grade (no diploma),376,14108
+1993,35 to 44 years,Female,9th to 12th Grade (no diploma),404,14940
+1993,45 to 54 years,Female,9th to 12th Grade (no diploma),436,17078
+1993,55 to 64 years,Female,9th to 12th Grade (no diploma),312,28018
+1993,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1993,18 to 24 years,Male,Some College (no degree),1012,18194
+1993,25 to 34 years,Male,Some College (no degree),2770,28135
+1993,35 to 44 years,Male,Some College (no degree),2953,36005
+1993,45 to 54 years,Male,Some College (no degree),1856,42060
+1993,55 to 64 years,Male,Some College (no degree),760,39735
+1993,65 years and over,Male,Some College (no degree),152,28864
+1993,18 to 24 years,Female,Some College (no degree),863,15796
+1993,25 to 34 years,Female,Some College (no degree),2060,21499
+1993,35 to 44 years,Female,Some College (no degree),2065,24215
+1993,45 to 54 years,Female,Some College (no degree),1496,24987
+1993,55 to 64 years,Female,Some College (no degree),572,26339
+1993,65 years and over,Female,Some College (no degree),83,20780
+1994,18 to 24 years,Male,Less than 9th Grade,184,12149
+1994,25 to 34 years,Male,Less than 9th Grade,456,17622
+1994,35 to 44 years,Male,Less than 9th Grade,484,17576
+1994,45 to 54 years,Male,Less than 9th Grade,460,24421
+1994,55 to 64 years,Male,Less than 9th Grade,371,23855
+1994,65 years and over,Male,Less than 9th Grade,124,17326
+1994,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1994,25 to 34 years,Female,Less than 9th Grade,128,12220
+1994,35 to 44 years,Female,Less than 9th Grade,164,14153
+1994,45 to 54 years,Female,Less than 9th Grade,184,14297
+1994,55 to 64 years,Female,Less than 9th Grade,173,12541
+1994,65 years and over,Female,Less than 9th Grade,NA,NA
+1994,18 to 24 years,Male,High School Graduate (includes equivalency),1808,17462
+1994,25 to 34 years,Male,High School Graduate (includes equivalency),5005,26363
+1994,35 to 44 years,Male,High School Graduate (includes equivalency),5025,31452
+1994,45 to 54 years,Male,High School Graduate (includes equivalency),3151,35975
+1994,55 to 64 years,Male,High School Graduate (includes equivalency),1642,35373
+1994,65 years and over,Male,High School Graduate (includes equivalency),274,28433
+1994,18 to 24 years,Female,High School Graduate (includes equivalency),1011,14673
+1994,25 to 34 years,Female,High School Graduate (includes equivalency),3083,19581
+1994,35 to 44 years,Female,High School Graduate (includes equivalency),3401,21321
+1994,45 to 54 years,Female,High School Graduate (includes equivalency),2753,23217
+1994,55 to 64 years,Female,High School Graduate (includes equivalency),1373,21770
+1994,65 years and over,Female,High School Graduate (includes equivalency),168,22457
+1994,18 to 24 years,Male,Associate Degree,202,20716
+1994,25 to 34 years,Male,Associate Degree,1205,31400
+1994,35 to 44 years,Male,Associate Degree,1305,40198
+1994,45 to 54 years,Male,Associate Degree,905,44682
+1994,55 to 64 years,Male,Associate Degree,290,47127
+1994,65 years and over,Male,Associate Degree,NA,NA
+1994,18 to 24 years,Female,Associate Degree,229,16255
+1994,25 to 34 years,Female,Associate Degree,1126,24068
+1994,35 to 44 years,Female,Associate Degree,1094,28855
+1994,45 to 54 years,Female,Associate Degree,698,28297
+1994,55 to 64 years,Female,Associate Degree,251,27726
+1994,65 years and over,Female,Associate Degree,NA,NA
+1994,18 to 24 years,Male,Bachelor's Degree,322,21823
+1994,25 to 34 years,Male,Bachelor's Degree,3124,38194
+1994,35 to 44 years,Male,Bachelor's Degree,3162,54927
+1994,45 to 54 years,Male,Bachelor's Degree,2312,62326
+1994,55 to 64 years,Male,Bachelor's Degree,852,74413
+1994,65 years and over,Male,Bachelor's Degree,186,65689
+1994,18 to 24 years,Female,Bachelor's Degree,424,22573
+1994,25 to 34 years,Female,Bachelor's Degree,2402,30599
+1994,35 to 44 years,Female,Bachelor's Degree,1911,37198
+1994,45 to 54 years,Female,Bachelor's Degree,1170,38920
+1994,55 to 64 years,Female,Bachelor's Degree,364,32385
+1994,65 years and over,Female,Bachelor's Degree,NA,NA
+1994,18 to 24 years,Male,Master's Degree,NA,NA
+1994,25 to 34 years,Male,Master's Degree,604,45317
+1994,35 to 44 years,Male,Master's Degree,1098,68286
+1994,45 to 54 years,Male,Master's Degree,1121,64467
+1994,55 to 64 years,Male,Master's Degree,344,62185
+1994,65 years and over,Male,Master's Degree,NA,NA
+1994,18 to 24 years,Female,Master's Degree,NA,NA
+1994,25 to 34 years,Female,Master's Degree,482,37413
+1994,35 to 44 years,Female,Master's Degree,733,46926
+1994,45 to 54 years,Female,Master's Degree,725,45150
+1994,55 to 64 years,Female,Master's Degree,201,44868
+1994,65 years and over,Female,Master's Degree,NA,NA
+1994,18 to 24 years,Male,Professional Degree,NA,NA
+1994,25 to 34 years,Male,Professional Degree,218,55203
+1994,35 to 44 years,Male,Professional Degree,468,118152
+1994,45 to 54 years,Male,Professional Degree,382,110602
+1994,55 to 64 years,Male,Professional Degree,154,96486
+1994,65 years and over,Male,Professional Degree,NA,NA
+1994,18 to 24 years,Female,Professional Degree,NA,NA
+1994,25 to 34 years,Female,Professional Degree,106,45890
+1994,35 to 44 years,Female,Professional Degree,168,103141
+1994,45 to 54 years,Female,Professional Degree,87,64183
+1994,55 to 64 years,Female,Professional Degree,NA,NA
+1994,65 years and over,Female,Professional Degree,NA,NA
+1994,18 to 24 years,Male,Doctorate Degree,NA,NA
+1994,25 to 34 years,Male,Doctorate Degree,95,47878
+1994,35 to 44 years,Male,Doctorate Degree,241,86396
+1994,45 to 54 years,Male,Doctorate Degree,328,102619
+1994,55 to 64 years,Male,Doctorate Degree,164,69253
+1994,65 years and over,Male,Doctorate Degree,NA,NA
+1994,18 to 24 years,Female,Doctorate Degree,NA,NA
+1994,25 to 34 years,Female,Doctorate Degree,NA,NA
+1994,35 to 44 years,Female,Doctorate Degree,106,51261
+1994,45 to 54 years,Female,Doctorate Degree,104,65720
+1994,55 to 64 years,Female,Doctorate Degree,NA,NA
+1994,65 years and over,Female,Doctorate Degree,NA,NA
+1994,18 to 24 years,Male,9th to 12th Grade (no diploma),433,15820
+1994,25 to 34 years,Male,9th to 12th Grade (no diploma),989,20594
+1994,35 to 44 years,Male,9th to 12th Grade (no diploma),846,24089
+1994,45 to 54 years,Male,9th to 12th Grade (no diploma),656,26745
+1994,55 to 64 years,Male,9th to 12th Grade (no diploma),456,30380
+1994,65 years and over,Male,9th to 12th Grade (no diploma),110,21596
+1994,18 to 24 years,Female,9th to 12th Grade (no diploma),175,9516
+1994,25 to 34 years,Female,9th to 12th Grade (no diploma),439,14364
+1994,35 to 44 years,Female,9th to 12th Grade (no diploma),494,15416
+1994,45 to 54 years,Female,9th to 12th Grade (no diploma),434,17530
+1994,55 to 64 years,Female,9th to 12th Grade (no diploma),272,18351
+1994,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1994,18 to 24 years,Male,Some College (no degree),998,17072
+1994,25 to 34 years,Male,Some College (no degree),2793,29922
+1994,35 to 44 years,Male,Some College (no degree),3010,36298
+1994,45 to 54 years,Male,Some College (no degree),1984,40787
+1994,55 to 64 years,Male,Some College (no degree),811,41595
+1994,65 years and over,Male,Some College (no degree),184,29880
+1994,18 to 24 years,Female,Some College (no degree),868,16335
+1994,25 to 34 years,Female,Some College (no degree),1938,22023
+1994,35 to 44 years,Female,Some College (no degree),2080,25976
+1994,45 to 54 years,Female,Some College (no degree),1532,27131
+1994,55 to 64 years,Female,Some College (no degree),613,24327
+1994,65 years and over,Female,Some College (no degree),91,20128
+1995,18 to 24 years,Male,Less than 9th Grade,195,15137
+1995,25 to 34 years,Male,Less than 9th Grade,420,16288
+1995,35 to 44 years,Male,Less than 9th Grade,512,19824
+1995,45 to 54 years,Male,Less than 9th Grade,433,21003
+1995,55 to 64 years,Male,Less than 9th Grade,447,23149
+1995,65 years and over,Male,Less than 9th Grade,133,20925
+1995,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1995,25 to 34 years,Female,Less than 9th Grade,174,13538
+1995,35 to 44 years,Female,Less than 9th Grade,217,14504
+1995,45 to 54 years,Female,Less than 9th Grade,193,14810
+1995,55 to 64 years,Female,Less than 9th Grade,165,15948
+1995,65 years and over,Female,Less than 9th Grade,NA,NA
+1995,18 to 24 years,Male,High School Graduate (includes equivalency),1904,17816
+1995,25 to 34 years,Male,High School Graduate (includes equivalency),4731,27440
+1995,35 to 44 years,Male,High School Graduate (includes equivalency),5336,32689
+1995,45 to 54 years,Male,High School Graduate (includes equivalency),3221,36886
+1995,55 to 64 years,Male,High School Graduate (includes equivalency),1798,36546
+1995,65 years and over,Male,High School Graduate (includes equivalency),245,51797
+1995,18 to 24 years,Female,High School Graduate (includes equivalency),1028,14169
+1995,25 to 34 years,Female,High School Graduate (includes equivalency),2783,20091
+1995,35 to 44 years,Female,High School Graduate (includes equivalency),3701,22257
+1995,45 to 54 years,Female,High School Graduate (includes equivalency),2947,22982
+1995,55 to 64 years,Female,High School Graduate (includes equivalency),1438,22703
+1995,65 years and over,Female,High School Graduate (includes equivalency),191,22117
+1995,18 to 24 years,Male,Associate Degree,229,20450
+1995,25 to 34 years,Male,Associate Degree,1308,31097
+1995,35 to 44 years,Male,Associate Degree,1388,41433
+1995,45 to 54 years,Male,Associate Degree,957,43287
+1995,55 to 64 years,Male,Associate Degree,244,45203
+1995,65 years and over,Male,Associate Degree,NA,NA
+1995,18 to 24 years,Female,Associate Degree,218,18496
+1995,25 to 34 years,Female,Associate Degree,1046,25870
+1995,35 to 44 years,Female,Associate Degree,1166,31025
+1995,45 to 54 years,Female,Associate Degree,805,29765
+1995,55 to 64 years,Female,Associate Degree,283,32605
+1995,65 years and over,Female,Associate Degree,NA,NA
+1995,18 to 24 years,Male,Bachelor's Degree,345,25565
+1995,25 to 34 years,Male,Bachelor's Degree,3107,42734
+1995,35 to 44 years,Male,Bachelor's Degree,3124,57196
+1995,45 to 54 years,Male,Bachelor's Degree,2351,57323
+1995,55 to 64 years,Male,Bachelor's Degree,862,62768
+1995,65 years and over,Male,Bachelor's Degree,153,51118
+1995,18 to 24 years,Female,Bachelor's Degree,412,22610
+1995,25 to 34 years,Female,Bachelor's Degree,2603,31066
+1995,35 to 44 years,Female,Bachelor's Degree,2117,36901
+1995,45 to 54 years,Female,Bachelor's Degree,1271,36420
+1995,55 to 64 years,Female,Bachelor's Degree,387,35597
+1995,65 years and over,Female,Bachelor's Degree,NA,NA
+1995,18 to 24 years,Male,Master's Degree,NA,NA
+1995,25 to 34 years,Male,Master's Degree,706,48851
+1995,35 to 44 years,Male,Master's Degree,1055,70118
+1995,45 to 54 years,Male,Master's Degree,1114,72041
+1995,55 to 64 years,Male,Master's Degree,424,62094
+1995,65 years and over,Male,Master's Degree,96,47277
+1995,18 to 24 years,Female,Master's Degree,NA,NA
+1995,25 to 34 years,Female,Master's Degree,484,36733
+1995,35 to 44 years,Female,Master's Degree,782,44808
+1995,45 to 54 years,Female,Master's Degree,751,42537
+1995,55 to 64 years,Female,Master's Degree,238,38871
+1995,65 years and over,Female,Master's Degree,NA,NA
+1995,18 to 24 years,Male,Professional Degree,NA,NA
+1995,25 to 34 years,Male,Professional Degree,223,60475
+1995,35 to 44 years,Male,Professional Degree,402,146114
+1995,45 to 54 years,Male,Professional Degree,374,111840
+1995,55 to 64 years,Male,Professional Degree,144,112922
+1995,65 years and over,Male,Professional Degree,NA,NA
+1995,18 to 24 years,Female,Professional Degree,NA,NA
+1995,25 to 34 years,Female,Professional Degree,155,56218
+1995,35 to 44 years,Female,Professional Degree,145,64341
+1995,45 to 54 years,Female,Professional Degree,83,61630
+1995,55 to 64 years,Female,Professional Degree,NA,NA
+1995,65 years and over,Female,Professional Degree,NA,NA
+1995,18 to 24 years,Male,Doctorate Degree,NA,NA
+1995,25 to 34 years,Male,Doctorate Degree,84,48008
+1995,35 to 44 years,Male,Doctorate Degree,248,74896
+1995,45 to 54 years,Male,Doctorate Degree,320,86406
+1995,55 to 64 years,Male,Doctorate Degree,150,70344
+1995,65 years and over,Male,Doctorate Degree,NA,NA
+1995,18 to 24 years,Female,Doctorate Degree,NA,NA
+1995,25 to 34 years,Female,Doctorate Degree,NA,NA
+1995,35 to 44 years,Female,Doctorate Degree,90,53121
+1995,45 to 54 years,Female,Doctorate Degree,103,52093
+1995,55 to 64 years,Female,Doctorate Degree,NA,NA
+1995,65 years and over,Female,Doctorate Degree,NA,NA
+1995,18 to 24 years,Male,9th to 12th Grade (no diploma),483,15186
+1995,25 to 34 years,Male,9th to 12th Grade (no diploma),1076,20968
+1995,35 to 44 years,Male,9th to 12th Grade (no diploma),1016,26229
+1995,45 to 54 years,Male,9th to 12th Grade (no diploma),651,26934
+1995,55 to 64 years,Male,9th to 12th Grade (no diploma),484,31128
+1995,65 years and over,Male,9th to 12th Grade (no diploma),109,22778
+1995,18 to 24 years,Female,9th to 12th Grade (no diploma),174,12573
+1995,25 to 34 years,Female,9th to 12th Grade (no diploma),444,14665
+1995,35 to 44 years,Female,9th to 12th Grade (no diploma),565,17379
+1995,45 to 54 years,Female,9th to 12th Grade (no diploma),436,17904
+1995,55 to 64 years,Female,9th to 12th Grade (no diploma),251,19413
+1995,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1995,18 to 24 years,Male,Some College (no degree),960,18586
+1995,25 to 34 years,Male,Some College (no degree),2780,29441
+1995,35 to 44 years,Male,Some College (no degree),3102,39268
+1995,45 to 54 years,Male,Some College (no degree),2010,47374
+1995,55 to 64 years,Male,Some College (no degree),851,45092
+1995,65 years and over,Male,Some College (no degree),165,33630
+1995,18 to 24 years,Female,Some College (no degree),920,15820
+1995,25 to 34 years,Female,Some College (no degree),1968,21589
+1995,35 to 44 years,Female,Some College (no degree),2011,25687
+1995,45 to 54 years,Female,Some College (no degree),1646,28018
+1995,55 to 64 years,Female,Some College (no degree),605,25031
+1995,65 years and over,Female,Some College (no degree),98,22264
+1996,18 to 24 years,Male,Less than 9th Grade,174,13336
+1996,25 to 34 years,Male,Less than 9th Grade,481,19176
+1996,35 to 44 years,Male,Less than 9th Grade,502,19798
+1996,45 to 54 years,Male,Less than 9th Grade,503,21600
+1996,55 to 64 years,Male,Less than 9th Grade,422,20747
+1996,65 years and over,Male,Less than 9th Grade,134,26566
+1996,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1996,25 to 34 years,Female,Less than 9th Grade,111,14244
+1996,35 to 44 years,Female,Less than 9th Grade,219,14650
+1996,45 to 54 years,Female,Less than 9th Grade,227,15678
+1996,55 to 64 years,Female,Less than 9th Grade,152,17652
+1996,65 years and over,Female,Less than 9th Grade,NA,NA
+1996,18 to 24 years,Male,High School Graduate (includes equivalency),1744,18779
+1996,25 to 34 years,Male,High School Graduate (includes equivalency),4642,27349
+1996,35 to 44 years,Male,High School Graduate (includes equivalency),5611,35138
+1996,45 to 54 years,Male,High School Graduate (includes equivalency),3425,39178
+1996,55 to 64 years,Male,High School Graduate (includes equivalency),1869,38032
+1996,65 years and over,Male,High School Graduate (includes equivalency),291,33142
+1996,18 to 24 years,Female,High School Graduate (includes equivalency),1063,15219
+1996,25 to 34 years,Female,High School Graduate (includes equivalency),2717,19526
+1996,35 to 44 years,Female,High School Graduate (includes equivalency),3842,23134
+1996,45 to 54 years,Female,High School Graduate (includes equivalency),3123,22833
+1996,55 to 64 years,Female,High School Graduate (includes equivalency),1478,23179
+1996,65 years and over,Female,High School Graduate (includes equivalency),198,25878
+1996,18 to 24 years,Male,Associate Degree,202,23447
+1996,25 to 34 years,Male,Associate Degree,1270,34854
+1996,35 to 44 years,Male,Associate Degree,1330,41558
+1996,45 to 54 years,Male,Associate Degree,1008,43745
+1996,55 to 64 years,Male,Associate Degree,276,55129
+1996,65 years and over,Male,Associate Degree,NA,NA
+1996,18 to 24 years,Female,Associate Degree,218,16985
+1996,25 to 34 years,Female,Associate Degree,1030,27020
+1996,35 to 44 years,Female,Associate Degree,1312,29493
+1996,45 to 54 years,Female,Associate Degree,843,31248
+1996,55 to 64 years,Female,Associate Degree,251,28982
+1996,65 years and over,Female,Associate Degree,NA,NA
+1996,18 to 24 years,Male,Bachelor's Degree,290,26838
+1996,25 to 34 years,Male,Bachelor's Degree,3201,42402
+1996,35 to 44 years,Male,Bachelor's Degree,3221,58497
+1996,45 to 54 years,Male,Bachelor's Degree,2446,57729
+1996,55 to 64 years,Male,Bachelor's Degree,847,59580
+1996,65 years and over,Male,Bachelor's Degree,182,53438
+1996,18 to 24 years,Female,Bachelor's Degree,432,24967
+1996,25 to 34 years,Female,Bachelor's Degree,2612,32013
+1996,35 to 44 years,Female,Bachelor's Degree,2091,40521
+1996,45 to 54 years,Female,Bachelor's Degree,1458,40113
+1996,55 to 64 years,Female,Bachelor's Degree,452,37616
+1996,65 years and over,Female,Bachelor's Degree,NA,NA
+1996,18 to 24 years,Male,Master's Degree,NA,NA
+1996,25 to 34 years,Male,Master's Degree,549,48143
+1996,35 to 44 years,Male,Master's Degree,1082,79119
+1996,45 to 54 years,Male,Master's Degree,1165,76971
+1996,55 to 64 years,Male,Master's Degree,406,63652
+1996,65 years and over,Male,Master's Degree,NA,NA
+1996,18 to 24 years,Female,Master's Degree,NA,NA
+1996,25 to 34 years,Female,Master's Degree,476,38416
+1996,35 to 44 years,Female,Master's Degree,702,48994
+1996,45 to 54 years,Female,Master's Degree,744,45441
+1996,55 to 64 years,Female,Master's Degree,264,41668
+1996,65 years and over,Female,Master's Degree,NA,NA
+1996,18 to 24 years,Male,Professional Degree,NA,NA
+1996,25 to 34 years,Male,Professional Degree,234,58987
+1996,35 to 44 years,Male,Professional Degree,411,124647
+1996,45 to 54 years,Male,Professional Degree,403,134666
+1996,55 to 64 years,Male,Professional Degree,160,121601
+1996,65 years and over,Male,Professional Degree,NA,NA
+1996,18 to 24 years,Female,Professional Degree,NA,NA
+1996,25 to 34 years,Female,Professional Degree,126,53956
+1996,35 to 44 years,Female,Professional Degree,127,115966
+1996,45 to 54 years,Female,Professional Degree,105,94147
+1996,55 to 64 years,Female,Professional Degree,NA,NA
+1996,65 years and over,Female,Professional Degree,NA,NA
+1996,18 to 24 years,Male,Doctorate Degree,NA,NA
+1996,25 to 34 years,Male,Doctorate Degree,117,50776
+1996,35 to 44 years,Male,Doctorate Degree,210,93329
+1996,45 to 54 years,Male,Doctorate Degree,337,89480
+1996,55 to 64 years,Male,Doctorate Degree,180,97005
+1996,65 years and over,Male,Doctorate Degree,NA,NA
+1996,18 to 24 years,Female,Doctorate Degree,NA,NA
+1996,25 to 34 years,Female,Doctorate Degree,86,45722
+1996,35 to 44 years,Female,Doctorate Degree,85,83989
+1996,45 to 54 years,Female,Doctorate Degree,107,60740
+1996,55 to 64 years,Female,Doctorate Degree,NA,NA
+1996,65 years and over,Female,Doctorate Degree,NA,NA
+1996,18 to 24 years,Male,9th to 12th Grade (no diploma),567,15478
+1996,25 to 34 years,Male,9th to 12th Grade (no diploma),1082,19910
+1996,35 to 44 years,Male,9th to 12th Grade (no diploma),1051,26116
+1996,45 to 54 years,Male,9th to 12th Grade (no diploma),743,34527
+1996,55 to 64 years,Male,9th to 12th Grade (no diploma),482,32926
+1996,65 years and over,Male,9th to 12th Grade (no diploma),82,24620
+1996,18 to 24 years,Female,9th to 12th Grade (no diploma),206,12512
+1996,25 to 34 years,Female,9th to 12th Grade (no diploma),378,16826
+1996,35 to 44 years,Female,9th to 12th Grade (no diploma),509,18261
+1996,45 to 54 years,Female,9th to 12th Grade (no diploma),438,18007
+1996,55 to 64 years,Female,9th to 12th Grade (no diploma),355,19039
+1996,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1996,18 to 24 years,Male,Some College (no degree),983,18336
+1996,25 to 34 years,Male,Some College (no degree),2873,32624
+1996,35 to 44 years,Male,Some College (no degree),3157,39630
+1996,45 to 54 years,Male,Some College (no degree),2204,46499
+1996,55 to 64 years,Male,Some College (no degree),797,59390
+1996,65 years and over,Male,Some College (no degree),140,29810
+1996,18 to 24 years,Female,Some College (no degree),901,16481
+1996,25 to 34 years,Female,Some College (no degree),1943,23738
+1996,35 to 44 years,Female,Some College (no degree),2204,27853
+1996,45 to 54 years,Female,Some College (no degree),1660,30666
+1996,55 to 64 years,Female,Some College (no degree),664,27340
+1996,65 years and over,Female,Some College (no degree),103,20477
+1997,18 to 24 years,Male,Less than 9th Grade,159,13377
+1997,25 to 34 years,Male,Less than 9th Grade,521,17714
+1997,35 to 44 years,Male,Less than 9th Grade,470,24304
+1997,45 to 54 years,Male,Less than 9th Grade,470,23261
+1997,55 to 64 years,Male,Less than 9th Grade,347,28510
+1997,65 years and over,Male,Less than 9th Grade,106,33425
+1997,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1997,25 to 34 years,Female,Less than 9th Grade,127,13526
+1997,35 to 44 years,Female,Less than 9th Grade,218,13820
+1997,45 to 54 years,Female,Less than 9th Grade,251,15419
+1997,55 to 64 years,Female,Less than 9th Grade,168,16826
+1997,65 years and over,Female,Less than 9th Grade,NA,NA
+1997,18 to 24 years,Male,High School Graduate (includes equivalency),1833,19470
+1997,25 to 34 years,Male,High School Graduate (includes equivalency),4881,28772
+1997,35 to 44 years,Male,High School Graduate (includes equivalency),5588,34790
+1997,45 to 54 years,Male,High School Graduate (includes equivalency),3509,38340
+1997,55 to 64 years,Male,High School Graduate (includes equivalency),1987,38179
+1997,65 years and over,Male,High School Graduate (includes equivalency),256,30549
+1997,18 to 24 years,Female,High School Graduate (includes equivalency),1175,15727
+1997,25 to 34 years,Female,High School Graduate (includes equivalency),2675,21289
+1997,35 to 44 years,Female,High School Graduate (includes equivalency),3756,23011
+1997,45 to 54 years,Female,High School Graduate (includes equivalency),3198,24624
+1997,55 to 64 years,Female,High School Graduate (includes equivalency),1621,25243
+1997,65 years and over,Female,High School Graduate (includes equivalency),221,22523
+1997,18 to 24 years,Male,Associate Degree,244,23297
+1997,25 to 34 years,Male,Associate Degree,1213,34670
+1997,35 to 44 years,Male,Associate Degree,1475,42968
+1997,45 to 54 years,Male,Associate Degree,1081,44431
+1997,55 to 64 years,Male,Associate Degree,276,44129
+1997,65 years and over,Male,Associate Degree,NA,NA
+1997,18 to 24 years,Female,Associate Degree,295,19894
+1997,25 to 34 years,Female,Associate Degree,1066,25431
+1997,35 to 44 years,Female,Associate Degree,1277,31090
+1997,45 to 54 years,Female,Associate Degree,903,35932
+1997,55 to 64 years,Female,Associate Degree,262,30773
+1997,65 years and over,Female,Associate Degree,NA,NA
+1997,18 to 24 years,Male,Bachelor's Degree,306,28765
+1997,25 to 34 years,Male,Bachelor's Degree,3125,45292
+1997,35 to 44 years,Male,Bachelor's Degree,3435,60325
+1997,45 to 54 years,Male,Bachelor's Degree,2612,62078
+1997,55 to 64 years,Male,Bachelor's Degree,976,66063
+1997,65 years and over,Male,Bachelor's Degree,201,53251
+1997,18 to 24 years,Female,Bachelor's Degree,441,25955
+1997,25 to 34 years,Female,Bachelor's Degree,2686,35348
+1997,35 to 44 years,Female,Bachelor's Degree,2170,39800
+1997,45 to 54 years,Female,Bachelor's Degree,1693,40428
+1997,55 to 64 years,Female,Bachelor's Degree,524,36857
+1997,65 years and over,Female,Bachelor's Degree,100,36334
+1997,18 to 24 years,Male,Master's Degree,NA,NA
+1997,25 to 34 years,Male,Master's Degree,587,57898
+1997,35 to 44 years,Male,Master's Degree,1031,67451
+1997,45 to 54 years,Male,Master's Degree,1110,77961
+1997,55 to 64 years,Male,Master's Degree,451,81650
+1997,65 years and over,Male,Master's Degree,NA,NA
+1997,18 to 24 years,Female,Master's Degree,NA,NA
+1997,25 to 34 years,Female,Master's Degree,556,38625
+1997,35 to 44 years,Female,Master's Degree,727,49974
+1997,45 to 54 years,Female,Master's Degree,812,50171
+1997,55 to 64 years,Female,Master's Degree,295,42043
+1997,65 years and over,Female,Master's Degree,NA,NA
+1997,18 to 24 years,Male,Professional Degree,NA,NA
+1997,25 to 34 years,Male,Professional Degree,200,70873
+1997,35 to 44 years,Male,Professional Degree,430,117909
+1997,45 to 54 years,Male,Professional Degree,407,116684
+1997,55 to 64 years,Male,Professional Degree,221,186089
+1997,65 years and over,Male,Professional Degree,NA,NA
+1997,18 to 24 years,Female,Professional Degree,NA,NA
+1997,25 to 34 years,Female,Professional Degree,148,63185
+1997,35 to 44 years,Female,Professional Degree,162,93512
+1997,45 to 54 years,Female,Professional Degree,123,70388
+1997,55 to 64 years,Female,Professional Degree,NA,NA
+1997,65 years and over,Female,Professional Degree,NA,NA
+1997,18 to 24 years,Male,Doctorate Degree,NA,NA
+1997,25 to 34 years,Male,Doctorate Degree,109,55799
+1997,35 to 44 years,Male,Doctorate Degree,285,80952
+1997,45 to 54 years,Male,Doctorate Degree,334,115284
+1997,55 to 64 years,Male,Doctorate Degree,189,90295
+1997,65 years and over,Male,Doctorate Degree,NA,NA
+1997,18 to 24 years,Female,Doctorate Degree,NA,NA
+1997,25 to 34 years,Female,Doctorate Degree,NA,NA
+1997,35 to 44 years,Female,Doctorate Degree,110,76561
+1997,45 to 54 years,Female,Doctorate Degree,121,50890
+1997,55 to 64 years,Female,Doctorate Degree,NA,NA
+1997,65 years and over,Female,Doctorate Degree,NA,NA
+1997,18 to 24 years,Male,9th to 12th Grade (no diploma),499,15576
+1997,25 to 34 years,Male,9th to 12th Grade (no diploma),1036,24517
+1997,35 to 44 years,Male,9th to 12th Grade (no diploma),1149,26285
+1997,45 to 54 years,Male,9th to 12th Grade (no diploma),761,35163
+1997,55 to 64 years,Male,9th to 12th Grade (no diploma),521,36561
+1997,65 years and over,Male,9th to 12th Grade (no diploma),81,32911
+1997,18 to 24 years,Female,9th to 12th Grade (no diploma),206,13915
+1997,25 to 34 years,Female,9th to 12th Grade (no diploma),389,18814
+1997,35 to 44 years,Female,9th to 12th Grade (no diploma),520,19409
+1997,45 to 54 years,Female,9th to 12th Grade (no diploma),437,18430
+1997,55 to 64 years,Female,9th to 12th Grade (no diploma),347,19317
+1997,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1997,18 to 24 years,Male,Some College (no degree),993,21945
+1997,25 to 34 years,Male,Some College (no degree),2699,32354
+1997,35 to 44 years,Male,Some College (no degree),3134,40919
+1997,45 to 54 years,Male,Some College (no degree),2295,45568
+1997,55 to 64 years,Male,Some College (no degree),895,55987
+1997,65 years and over,Male,Some College (no degree),146,54905
+1997,18 to 24 years,Female,Some College (no degree),868,15506
+1997,25 to 34 years,Female,Some College (no degree),1995,24127
+1997,35 to 44 years,Female,Some College (no degree),2185,28561
+1997,45 to 54 years,Female,Some College (no degree),1652,31350
+1997,55 to 64 years,Female,Some College (no degree),699,29535
+1997,65 years and over,Female,Some College (no degree),98,27596
+1998,18 to 24 years,Male,Less than 9th Grade,160,34684
+1998,25 to 34 years,Male,Less than 9th Grade,441,16443
+1998,35 to 44 years,Male,Less than 9th Grade,509,23578
+1998,45 to 54 years,Male,Less than 9th Grade,486,26620
+1998,55 to 64 years,Male,Less than 9th Grade,354,26264
+1998,65 years and over,Male,Less than 9th Grade,80,19120
+1998,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1998,25 to 34 years,Female,Less than 9th Grade,143,15362
+1998,35 to 44 years,Female,Less than 9th Grade,258,18289
+1998,45 to 54 years,Female,Less than 9th Grade,249,18114
+1998,55 to 64 years,Female,Less than 9th Grade,127,16140
+1998,65 years and over,Female,Less than 9th Grade,NA,NA
+1998,18 to 24 years,Male,High School Graduate (includes equivalency),2010,21096
+1998,25 to 34 years,Male,High School Graduate (includes equivalency),4635,29281
+1998,35 to 44 years,Male,High School Graduate (includes equivalency),5882,34786
+1998,45 to 54 years,Male,High School Graduate (includes equivalency),3677,36867
+1998,55 to 64 years,Male,High School Graduate (includes equivalency),1956,37257
+1998,65 years and over,Male,High School Graduate (includes equivalency),291,38510
+1998,18 to 24 years,Female,High School Graduate (includes equivalency),1247,17162
+1998,25 to 34 years,Female,High School Graduate (includes equivalency),2555,22519
+1998,35 to 44 years,Female,High School Graduate (includes equivalency),3813,24569
+1998,45 to 54 years,Female,High School Graduate (includes equivalency),3286,25381
+1998,55 to 64 years,Female,High School Graduate (includes equivalency),1696,26419
+1998,65 years and over,Female,High School Graduate (includes equivalency),256,21858
+1998,18 to 24 years,Male,Associate Degree,269,31296
+1998,25 to 34 years,Male,Associate Degree,1247,36660
+1998,35 to 44 years,Male,Associate Degree,1470,46537
+1998,45 to 54 years,Male,Associate Degree,1258,43639
+1998,55 to 64 years,Male,Associate Degree,327,60350
+1998,65 years and over,Male,Associate Degree,NA,NA
+1998,18 to 24 years,Female,Associate Degree,240,19171
+1998,25 to 34 years,Female,Associate Degree,1068,27279
+1998,35 to 44 years,Female,Associate Degree,1236,34128
+1998,45 to 54 years,Female,Associate Degree,917,37153
+1998,55 to 64 years,Female,Associate Degree,263,34618
+1998,65 years and over,Female,Associate Degree,NA,NA
+1998,18 to 24 years,Male,Bachelor's Degree,290,32676
+1998,25 to 34 years,Male,Bachelor's Degree,3299,47536
+1998,35 to 44 years,Male,Bachelor's Degree,3615,62147
+1998,45 to 54 years,Male,Bachelor's Degree,2866,72790
+1998,55 to 64 years,Male,Bachelor's Degree,1040,70085
+1998,65 years and over,Male,Bachelor's Degree,238,64274
+1998,18 to 24 years,Female,Bachelor's Degree,444,24275
+1998,25 to 34 years,Female,Bachelor's Degree,2622,35982
+1998,35 to 44 years,Female,Bachelor's Degree,2339,44912
+1998,45 to 54 years,Female,Bachelor's Degree,1726,41959
+1998,55 to 64 years,Female,Bachelor's Degree,523,40206
+1998,65 years and over,Female,Bachelor's Degree,NA,NA
+1998,18 to 24 years,Male,Master's Degree,NA,NA
+1998,25 to 34 years,Male,Master's Degree,638,50738
+1998,35 to 44 years,Male,Master's Degree,1074,80915
+1998,45 to 54 years,Male,Master's Degree,1157,73908
+1998,55 to 64 years,Male,Master's Degree,497,81398
+1998,65 years and over,Male,Master's Degree,NA,NA
+1998,18 to 24 years,Female,Master's Degree,NA,NA
+1998,25 to 34 years,Female,Master's Degree,625,41022
+1998,35 to 44 years,Female,Master's Degree,747,51762
+1998,45 to 54 years,Female,Master's Degree,931,48871
+1998,55 to 64 years,Female,Master's Degree,309,45361
+1998,65 years and over,Female,Master's Degree,NA,NA
+1998,18 to 24 years,Male,Professional Degree,NA,NA
+1998,25 to 34 years,Male,Professional Degree,175,76926
+1998,35 to 44 years,Male,Professional Degree,393,116800
+1998,45 to 54 years,Male,Professional Degree,407,110692
+1998,55 to 64 years,Male,Professional Degree,234,159548
+1998,65 years and over,Male,Professional Degree,NA,NA
+1998,18 to 24 years,Female,Professional Degree,NA,NA
+1998,25 to 34 years,Female,Professional Degree,146,46403
+1998,35 to 44 years,Female,Professional Degree,161,116525
+1998,45 to 54 years,Female,Professional Degree,119,71655
+1998,55 to 64 years,Female,Professional Degree,NA,NA
+1998,65 years and over,Female,Professional Degree,NA,NA
+1998,18 to 24 years,Male,Doctorate Degree,NA,NA
+1998,25 to 34 years,Male,Doctorate Degree,123,69624
+1998,35 to 44 years,Male,Doctorate Degree,313,79518
+1998,45 to 54 years,Male,Doctorate Degree,303,106524
+1998,55 to 64 years,Male,Doctorate Degree,197,107861
+1998,65 years and over,Male,Doctorate Degree,NA,NA
+1998,18 to 24 years,Female,Doctorate Degree,NA,NA
+1998,25 to 34 years,Female,Doctorate Degree,NA,NA
+1998,35 to 44 years,Female,Doctorate Degree,101,69122
+1998,45 to 54 years,Female,Doctorate Degree,135,71362
+1998,55 to 64 years,Female,Doctorate Degree,NA,NA
+1998,65 years and over,Female,Doctorate Degree,NA,NA
+1998,18 to 24 years,Male,9th to 12th Grade (no diploma),660,16586
+1998,25 to 34 years,Male,9th to 12th Grade (no diploma),1120,22924
+1998,35 to 44 years,Male,9th to 12th Grade (no diploma),1169,27094
+1998,45 to 54 years,Male,9th to 12th Grade (no diploma),713,28896
+1998,55 to 64 years,Male,9th to 12th Grade (no diploma),515,32109
+1998,65 years and over,Male,9th to 12th Grade (no diploma),96,22028
+1998,18 to 24 years,Female,9th to 12th Grade (no diploma),202,15729
+1998,25 to 34 years,Female,9th to 12th Grade (no diploma),421,16309
+1998,35 to 44 years,Female,9th to 12th Grade (no diploma),645,17291
+1998,45 to 54 years,Female,9th to 12th Grade (no diploma),468,17766
+1998,55 to 64 years,Female,9th to 12th Grade (no diploma),297,18089
+1998,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+1998,18 to 24 years,Male,Some College (no degree),1105,20681
+1998,25 to 34 years,Male,Some College (no degree),2675,34492
+1998,35 to 44 years,Male,Some College (no degree),3086,43819
+1998,45 to 54 years,Male,Some College (no degree),2419,45223
+1998,55 to 64 years,Male,Some College (no degree),1072,45145
+1998,65 years and over,Male,Some College (no degree),123,74479
+1998,18 to 24 years,Female,Some College (no degree),969,17553
+1998,25 to 34 years,Female,Some College (no degree),2027,25267
+1998,35 to 44 years,Female,Some College (no degree),2283,29692
+1998,45 to 54 years,Female,Some College (no degree),1850,31498
+1998,55 to 64 years,Female,Some College (no degree),824,30590
+1998,65 years and over,Female,Some College (no degree),83,28685
+1999,18 to 24 years,Male,Less than 9th Grade,230,16853
+1999,25 to 34 years,Male,Less than 9th Grade,533,20289
+1999,35 to 44 years,Male,Less than 9th Grade,558,24138
+1999,45 to 54 years,Male,Less than 9th Grade,496,23474
+1999,55 to 64 years,Male,Less than 9th Grade,382,23962
+1999,65 years and over,Male,Less than 9th Grade,126,22160
+1999,18 to 24 years,Female,Less than 9th Grade,NA,NA
+1999,25 to 34 years,Female,Less than 9th Grade,161,14379
+1999,35 to 44 years,Female,Less than 9th Grade,298,17200
+1999,45 to 54 years,Female,Less than 9th Grade,253,16605
+1999,55 to 64 years,Female,Less than 9th Grade,163,18895
+1999,65 years and over,Female,Less than 9th Grade,NA,NA
+1999,18 to 24 years,Male,High School Graduate (includes equivalency),1887,20335
+1999,25 to 34 years,Male,High School Graduate (includes equivalency),4768,31690
+1999,35 to 44 years,Male,High School Graduate (includes equivalency),5820,37190
+1999,45 to 54 years,Male,High School Graduate (includes equivalency),3871,39332
+1999,55 to 64 years,Male,High School Graduate (includes equivalency),1953,39922
+1999,65 years and over,Male,High School Graduate (includes equivalency),385,47116
+1999,18 to 24 years,Female,High School Graduate (includes equivalency),1246,16667
+1999,25 to 34 years,Female,High School Graduate (includes equivalency),2740,21610
+1999,35 to 44 years,Female,High School Graduate (includes equivalency),3891,24227
+1999,45 to 54 years,Female,High School Graduate (includes equivalency),3399,25731
+1999,55 to 64 years,Female,High School Graduate (includes equivalency),1673,25970
+1999,65 years and over,Female,High School Graduate (includes equivalency),281,20494
+1999,18 to 24 years,Male,Associate Degree,237,23947
+1999,25 to 34 years,Male,Associate Degree,1150,36986
+1999,35 to 44 years,Male,Associate Degree,1564,48515
+1999,45 to 54 years,Male,Associate Degree,1260,49534
+1999,55 to 64 years,Male,Associate Degree,379,50923
+1999,65 years and over,Male,Associate Degree,NA,NA
+1999,18 to 24 years,Female,Associate Degree,186,19696
+1999,25 to 34 years,Female,Associate Degree,1086,27968
+1999,35 to 44 years,Female,Associate Degree,1294,33206
+1999,45 to 54 years,Female,Associate Degree,1109,33279
+1999,55 to 64 years,Female,Associate Degree,311,35014
+1999,65 years and over,Female,Associate Degree,NA,NA
+1999,18 to 24 years,Male,Bachelor's Degree,300,28446
+1999,25 to 34 years,Male,Bachelor's Degree,3429,50922
+1999,35 to 44 years,Male,Bachelor's Degree,3492,65682
+1999,45 to 54 years,Male,Bachelor's Degree,3034,73528
+1999,55 to 64 years,Male,Bachelor's Degree,1068,67684
+1999,65 years and over,Male,Bachelor's Degree,229,61519
+1999,18 to 24 years,Female,Bachelor's Degree,448,26196
+1999,25 to 34 years,Female,Bachelor's Degree,2739,37565
+1999,35 to 44 years,Female,Bachelor's Degree,2316,43422
+1999,45 to 54 years,Female,Bachelor's Degree,1994,43265
+1999,55 to 64 years,Female,Bachelor's Degree,573,42645
+1999,65 years and over,Female,Bachelor's Degree,90,28246
+1999,18 to 24 years,Male,Master's Degree,NA,NA
+1999,25 to 34 years,Male,Master's Degree,672,61080
+1999,35 to 44 years,Male,Master's Degree,1183,72676
+1999,45 to 54 years,Male,Master's Degree,1299,82221
+1999,55 to 64 years,Male,Master's Degree,562,81846
+1999,65 years and over,Male,Master's Degree,NA,NA
+1999,18 to 24 years,Female,Master's Degree,NA,NA
+1999,25 to 34 years,Female,Master's Degree,605,45382
+1999,35 to 44 years,Female,Master's Degree,787,51359
+1999,45 to 54 years,Female,Master's Degree,1026,50936
+1999,55 to 64 years,Female,Master's Degree,397,50950
+1999,65 years and over,Female,Master's Degree,NA,NA
+1999,18 to 24 years,Male,Professional Degree,NA,NA
+1999,25 to 34 years,Male,Professional Degree,186,67481
+1999,35 to 44 years,Male,Professional Degree,337,122627
+1999,45 to 54 years,Male,Professional Degree,424,145144
+1999,55 to 64 years,Male,Professional Degree,261,153027
+1999,65 years and over,Male,Professional Degree,82,146622
+1999,18 to 24 years,Female,Professional Degree,NA,NA
+1999,25 to 34 years,Female,Professional Degree,157,63536
+1999,35 to 44 years,Female,Professional Degree,151,78479
+1999,45 to 54 years,Female,Professional Degree,126,73577
+1999,55 to 64 years,Female,Professional Degree,NA,NA
+1999,65 years and over,Female,Professional Degree,NA,NA
+1999,18 to 24 years,Male,Doctorate Degree,NA,NA
+1999,25 to 34 years,Male,Doctorate Degree,124,75582
+1999,35 to 44 years,Male,Doctorate Degree,305,118483
+1999,45 to 54 years,Male,Doctorate Degree,314,99582
+1999,55 to 64 years,Male,Doctorate Degree,198,123506
+1999,65 years and over,Male,Doctorate Degree,92,118668
+1999,18 to 24 years,Female,Doctorate Degree,NA,NA
+1999,25 to 34 years,Female,Doctorate Degree,NA,NA
+1999,35 to 44 years,Female,Doctorate Degree,112,62625
+1999,45 to 54 years,Female,Doctorate Degree,125,87734
+1999,55 to 64 years,Female,Doctorate Degree,NA,NA
+1999,65 years and over,Female,Doctorate Degree,NA,NA
+1999,18 to 24 years,Male,9th to 12th Grade (no diploma),646,17477
+1999,25 to 34 years,Male,9th to 12th Grade (no diploma),1055,22592
+1999,35 to 44 years,Male,9th to 12th Grade (no diploma),1067,27185
+1999,45 to 54 years,Male,9th to 12th Grade (no diploma),671,29628
+1999,55 to 64 years,Male,9th to 12th Grade (no diploma),513,31444
+1999,65 years and over,Male,9th to 12th Grade (no diploma),102,27215
+1999,18 to 24 years,Female,9th to 12th Grade (no diploma),265,17718
+1999,25 to 34 years,Female,9th to 12th Grade (no diploma),410,17663
+1999,35 to 44 years,Female,9th to 12th Grade (no diploma),614,17432
+1999,45 to 54 years,Female,9th to 12th Grade (no diploma),502,18437
+1999,55 to 64 years,Female,9th to 12th Grade (no diploma),319,28432
+1999,65 years and over,Female,9th to 12th Grade (no diploma),76,18395
+1999,18 to 24 years,Male,Some College (no degree),1051,20931
+1999,25 to 34 years,Male,Some College (no degree),2752,36504
+1999,35 to 44 years,Male,Some College (no degree),3134,46326
+1999,45 to 54 years,Male,Some College (no degree),2659,49409
+1999,55 to 64 years,Male,Some College (no degree),1061,49440
+1999,65 years and over,Male,Some College (no degree),180,31497
+1999,18 to 24 years,Female,Some College (no degree),1031,18049
+1999,25 to 34 years,Female,Some College (no degree),2039,26809
+1999,35 to 44 years,Female,Some College (no degree),2397,31237
+1999,45 to 54 years,Female,Some College (no degree),2049,31252
+1999,55 to 64 years,Female,Some College (no degree),920,31286
+1999,65 years and over,Female,Some College (no degree),119,34570
+2000,18 to 24 years,Male,Less than 9th Grade,290,17969
+2000,25 to 34 years,Male,Less than 9th Grade,591,21793
+2000,35 to 44 years,Male,Less than 9th Grade,622,25368
+2000,45 to 54 years,Male,Less than 9th Grade,489,24925
+2000,55 to 64 years,Male,Less than 9th Grade,345,27033
+2000,65 years and over,Male,Less than 9th Grade,112,24769
+2000,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2000,25 to 34 years,Female,Less than 9th Grade,181,17283
+2000,35 to 44 years,Female,Less than 9th Grade,256,21673
+2000,45 to 54 years,Female,Less than 9th Grade,279,20748
+2000,55 to 64 years,Female,Less than 9th Grade,168,19900
+2000,65 years and over,Female,Less than 9th Grade,NA,NA
+2000,18 to 24 years,Male,High School Graduate (includes equivalency),1967,23253
+2000,25 to 34 years,Male,High School Graduate (includes equivalency),4546,32510
+2000,35 to 44 years,Male,High School Graduate (includes equivalency),5810,38647
+2000,45 to 54 years,Male,High School Graduate (includes equivalency),4011,40553
+2000,55 to 64 years,Male,High School Graduate (includes equivalency),2009,42842
+2000,65 years and over,Male,High School Graduate (includes equivalency),358,31482
+2000,18 to 24 years,Female,High School Graduate (includes equivalency),1329,17127
+2000,25 to 34 years,Female,High School Graduate (includes equivalency),2505,23645
+2000,35 to 44 years,Female,High School Graduate (includes equivalency),3793,26062
+2000,45 to 54 years,Female,High School Graduate (includes equivalency),3559,26662
+2000,55 to 64 years,Female,High School Graduate (includes equivalency),1700,24994
+2000,65 years and over,Female,High School Graduate (includes equivalency),243,23917
+2000,18 to 24 years,Male,Associate Degree,289,26568
+2000,25 to 34 years,Male,Associate Degree,1229,40015
+2000,35 to 44 years,Male,Associate Degree,1662,47893
+2000,45 to 54 years,Male,Associate Degree,1411,48336
+2000,55 to 64 years,Male,Associate Degree,444,55198
+2000,65 years and over,Male,Associate Degree,NA,NA
+2000,18 to 24 years,Female,Associate Degree,273,21139
+2000,25 to 34 years,Female,Associate Degree,1151,29072
+2000,35 to 44 years,Female,Associate Degree,1427,33704
+2000,45 to 54 years,Female,Associate Degree,1218,36106
+2000,55 to 64 years,Female,Associate Degree,391,34679
+2000,65 years and over,Female,Associate Degree,NA,NA
+2000,18 to 24 years,Male,Bachelor's Degree,362,37696
+2000,25 to 34 years,Male,Bachelor's Degree,3374,56985
+2000,35 to 44 years,Male,Bachelor's Degree,3673,71950
+2000,45 to 54 years,Male,Bachelor's Degree,3225,75867
+2000,55 to 64 years,Male,Bachelor's Degree,1126,81851
+2000,65 years and over,Male,Bachelor's Degree,256,75811
+2000,18 to 24 years,Female,Bachelor's Degree,591,28244
+2000,25 to 34 years,Female,Bachelor's Degree,2796,40419
+2000,35 to 44 years,Female,Bachelor's Degree,2337,48076
+2000,45 to 54 years,Female,Bachelor's Degree,1994,47215
+2000,55 to 64 years,Female,Bachelor's Degree,644,43391
+2000,65 years and over,Female,Bachelor's Degree,97,35481
+2000,18 to 24 years,Male,Master's Degree,NA,NA
+2000,25 to 34 years,Male,Master's Degree,642,65193
+2000,35 to 44 years,Male,Master's Degree,1182,86205
+2000,45 to 54 years,Male,Master's Degree,1267,82989
+2000,55 to 64 years,Male,Master's Degree,623,102119
+2000,65 years and over,Male,Master's Degree,75,71567
+2000,18 to 24 years,Female,Master's Degree,NA,NA
+2000,25 to 34 years,Female,Master's Degree,625,48336
+2000,35 to 44 years,Female,Master's Degree,757,61519
+2000,45 to 54 years,Female,Master's Degree,1067,55524
+2000,55 to 64 years,Female,Master's Degree,366,51544
+2000,65 years and over,Female,Master's Degree,NA,NA
+2000,18 to 24 years,Male,Professional Degree,NA,NA
+2000,25 to 34 years,Male,Professional Degree,162,75108
+2000,35 to 44 years,Male,Professional Degree,382,136526
+2000,45 to 54 years,Male,Professional Degree,452,165446
+2000,55 to 64 years,Male,Professional Degree,207,124499
+2000,65 years and over,Male,Professional Degree,NA,NA
+2000,18 to 24 years,Female,Professional Degree,NA,NA
+2000,25 to 34 years,Female,Professional Degree,141,62820
+2000,35 to 44 years,Female,Professional Degree,182,81396
+2000,45 to 54 years,Female,Professional Degree,109,89125
+2000,55 to 64 years,Female,Professional Degree,NA,NA
+2000,65 years and over,Female,Professional Degree,NA,NA
+2000,18 to 24 years,Male,Doctorate Degree,NA,NA
+2000,25 to 34 years,Male,Doctorate Degree,140,62164
+2000,35 to 44 years,Male,Doctorate Degree,315,104055
+2000,45 to 54 years,Male,Doctorate Degree,335,103960
+2000,55 to 64 years,Male,Doctorate Degree,238,82458
+2000,65 years and over,Male,Doctorate Degree,NA,NA
+2000,18 to 24 years,Female,Doctorate Degree,NA,NA
+2000,25 to 34 years,Female,Doctorate Degree,NA,NA
+2000,35 to 44 years,Female,Doctorate Degree,118,69698
+2000,45 to 54 years,Female,Doctorate Degree,117,75711
+2000,55 to 64 years,Female,Doctorate Degree,NA,NA
+2000,65 years and over,Female,Doctorate Degree,NA,NA
+2000,18 to 24 years,Male,9th to 12th Grade (no diploma),710,17959
+2000,25 to 34 years,Male,9th to 12th Grade (no diploma),1054,24858
+2000,35 to 44 years,Male,9th to 12th Grade (no diploma),1138,28493
+2000,45 to 54 years,Male,9th to 12th Grade (no diploma),710,38549
+2000,55 to 64 years,Male,9th to 12th Grade (no diploma),474,30852
+2000,65 years and over,Male,9th to 12th Grade (no diploma),100,30653
+2000,18 to 24 years,Female,9th to 12th Grade (no diploma),297,14018
+2000,25 to 34 years,Female,9th to 12th Grade (no diploma),470,20646
+2000,35 to 44 years,Female,9th to 12th Grade (no diploma),647,18877
+2000,45 to 54 years,Female,9th to 12th Grade (no diploma),460,20080
+2000,55 to 64 years,Female,9th to 12th Grade (no diploma),312,18815
+2000,65 years and over,Female,9th to 12th Grade (no diploma),75,19414
+2000,18 to 24 years,Male,Some College (no degree),1087,23204
+2000,25 to 34 years,Male,Some College (no degree),2795,38309
+2000,35 to 44 years,Male,Some College (no degree),3022,48205
+2000,45 to 54 years,Male,Some College (no degree),2705,54302
+2000,55 to 64 years,Male,Some College (no degree),1102,45987
+2000,65 years and over,Male,Some College (no degree),213,40147
+2000,18 to 24 years,Female,Some College (no degree),1023,19697
+2000,25 to 34 years,Female,Some College (no degree),2064,26705
+2000,35 to 44 years,Female,Some College (no degree),2380,32127
+2000,45 to 54 years,Female,Some College (no degree),2126,32841
+2000,55 to 64 years,Female,Some College (no degree),858,30169
+2000,65 years and over,Female,Some College (no degree),106,28494
+2001,18 to 24 years,Male,Less than 9th Grade,244,16656
+2001,25 to 34 years,Male,Less than 9th Grade,694,24330
+2001,35 to 44 years,Male,Less than 9th Grade,558,24802
+2001,45 to 54 years,Male,Less than 9th Grade,473,27434
+2001,55 to 64 years,Male,Less than 9th Grade,339,24330
+2001,65 years and over,Male,Less than 9th Grade,143,24281
+2001,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2001,25 to 34 years,Female,Less than 9th Grade,167,16862
+2001,35 to 44 years,Female,Less than 9th Grade,272,18699
+2001,45 to 54 years,Female,Less than 9th Grade,278,18548
+2001,55 to 64 years,Female,Less than 9th Grade,167,18287
+2001,65 years and over,Female,Less than 9th Grade,NA,NA
+2001,18 to 24 years,Male,High School Graduate (includes equivalency),1936,23416
+2001,25 to 34 years,Male,High School Graduate (includes equivalency),4106,32130
+2001,35 to 44 years,Male,High School Graduate (includes equivalency),5464,39535
+2001,45 to 54 years,Male,High School Graduate (includes equivalency),4338,42064
+2001,55 to 64 years,Male,High School Graduate (includes equivalency),2000,41961
+2001,65 years and over,Male,High School Graduate (includes equivalency),406,54640
+2001,18 to 24 years,Female,High School Graduate (includes equivalency),1336,19092
+2001,25 to 34 years,Female,High School Graduate (includes equivalency),2351,25353
+2001,35 to 44 years,Female,High School Graduate (includes equivalency),3719,27248
+2001,45 to 54 years,Female,High School Graduate (includes equivalency),3518,29238
+2001,55 to 64 years,Female,High School Graduate (includes equivalency),1807,27806
+2001,65 years and over,Female,High School Graduate (includes equivalency),291,26178
+2001,18 to 24 years,Male,Associate Degree,250,28673
+2001,25 to 34 years,Male,Associate Degree,1227,40823
+2001,35 to 44 years,Male,Associate Degree,1613,49061
+2001,45 to 54 years,Male,Associate Degree,1304,50956
+2001,55 to 64 years,Male,Associate Degree,504,56882
+2001,65 years and over,Male,Associate Degree,NA,NA
+2001,18 to 24 years,Female,Associate Degree,230,24376
+2001,25 to 34 years,Female,Associate Degree,970,30206
+2001,35 to 44 years,Female,Associate Degree,1409,34872
+2001,45 to 54 years,Female,Associate Degree,1288,36399
+2001,55 to 64 years,Female,Associate Degree,470,37669
+2001,65 years and over,Female,Associate Degree,NA,NA
+2001,18 to 24 years,Male,Bachelor's Degree,407,39024
+2001,25 to 34 years,Male,Bachelor's Degree,3335,54729
+2001,35 to 44 years,Male,Bachelor's Degree,3546,78396
+2001,45 to 54 years,Male,Bachelor's Degree,3021,78913
+2001,55 to 64 years,Male,Bachelor's Degree,1334,77652
+2001,65 years and over,Male,Bachelor's Degree,243,68492
+2001,18 to 24 years,Female,Bachelor's Degree,475,36801
+2001,25 to 34 years,Female,Bachelor's Degree,2850,42320
+2001,35 to 44 years,Female,Bachelor's Degree,2475,48250
+2001,45 to 54 years,Female,Bachelor's Degree,2107,48263
+2001,55 to 64 years,Female,Bachelor's Degree,731,45047
+2001,65 years and over,Female,Bachelor's Degree,90,35104
+2001,18 to 24 years,Male,Master's Degree,NA,NA
+2001,25 to 34 years,Male,Master's Degree,698,65138
+2001,35 to 44 years,Male,Master's Degree,1165,94916
+2001,45 to 54 years,Male,Master's Degree,1313,88024
+2001,55 to 64 years,Male,Master's Degree,683,98781
+2001,65 years and over,Male,Master's Degree,103,58225
+2001,18 to 24 years,Female,Master's Degree,NA,NA
+2001,25 to 34 years,Female,Master's Degree,677,48925
+2001,35 to 44 years,Female,Master's Degree,777,61532
+2001,45 to 54 years,Female,Master's Degree,1147,59891
+2001,55 to 64 years,Female,Master's Degree,450,61411
+2001,65 years and over,Female,Master's Degree,NA,NA
+2001,18 to 24 years,Male,Professional Degree,NA,NA
+2001,25 to 34 years,Male,Professional Degree,178,76678
+2001,35 to 44 years,Male,Professional Degree,380,138207
+2001,45 to 54 years,Male,Professional Degree,458,142655
+2001,55 to 64 years,Male,Professional Degree,227,143380
+2001,65 years and over,Male,Professional Degree,NA,NA
+2001,18 to 24 years,Female,Professional Degree,NA,NA
+2001,25 to 34 years,Female,Professional Degree,159,61807
+2001,35 to 44 years,Female,Professional Degree,171,79704
+2001,45 to 54 years,Female,Professional Degree,124,79050
+2001,55 to 64 years,Female,Professional Degree,NA,NA
+2001,65 years and over,Female,Professional Degree,NA,NA
+2001,18 to 24 years,Male,Doctorate Degree,NA,NA
+2001,25 to 34 years,Male,Doctorate Degree,100,55319
+2001,35 to 44 years,Male,Doctorate Degree,274,112096
+2001,45 to 54 years,Male,Doctorate Degree,358,119732
+2001,55 to 64 years,Male,Doctorate Degree,244,90100
+2001,65 years and over,Male,Doctorate Degree,NA,NA
+2001,18 to 24 years,Female,Doctorate Degree,NA,NA
+2001,25 to 34 years,Female,Doctorate Degree,83,55338
+2001,35 to 44 years,Female,Doctorate Degree,116,65484
+2001,45 to 54 years,Female,Doctorate Degree,121,83122
+2001,55 to 64 years,Female,Doctorate Degree,NA,NA
+2001,65 years and over,Female,Doctorate Degree,NA,NA
+2001,18 to 24 years,Male,9th to 12th Grade (no diploma),704,20109
+2001,25 to 34 years,Male,9th to 12th Grade (no diploma),1100,25705
+2001,35 to 44 years,Male,9th to 12th Grade (no diploma),1102,32348
+2001,45 to 54 years,Male,9th to 12th Grade (no diploma),707,32240
+2001,55 to 64 years,Male,9th to 12th Grade (no diploma),498,35951
+2001,65 years and over,Male,9th to 12th Grade (no diploma),96,28807
+2001,18 to 24 years,Female,9th to 12th Grade (no diploma),288,28807
+2001,25 to 34 years,Female,9th to 12th Grade (no diploma),441,33131
+2001,35 to 44 years,Female,9th to 12th Grade (no diploma),609,20421
+2001,45 to 54 years,Female,9th to 12th Grade (no diploma),436,21586
+2001,55 to 64 years,Female,9th to 12th Grade (no diploma),319,20160
+2001,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2001,18 to 24 years,Male,Some College (no degree),1056,23525
+2001,25 to 34 years,Male,Some College (no degree),2593,38359
+2001,35 to 44 years,Male,Some College (no degree),2890,48305
+2001,45 to 54 years,Male,Some College (no degree),2644,51055
+2001,55 to 64 years,Male,Some College (no degree),1149,51427
+2001,65 years and over,Male,Some College (no degree),216,46734
+2001,18 to 24 years,Female,Some College (no degree),977,21979
+2001,25 to 34 years,Female,Some College (no degree),1942,28784
+2001,35 to 44 years,Female,Some College (no degree),2242,32399
+2001,45 to 54 years,Female,Some College (no degree),2031,34549
+2001,55 to 64 years,Female,Some College (no degree),926,36077
+2001,65 years and over,Female,Some College (no degree),141,58277
+2002,18 to 24 years,Male,Less than 9th Grade,228,17322
+2002,25 to 34 years,Male,Less than 9th Grade,638,21512
+2002,35 to 44 years,Male,Less than 9th Grade,636,25114
+2002,45 to 54 years,Male,Less than 9th Grade,462,24481
+2002,55 to 64 years,Male,Less than 9th Grade,319,30611
+2002,65 years and over,Male,Less than 9th Grade,99,27875
+2002,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2002,25 to 34 years,Female,Less than 9th Grade,152,16137
+2002,35 to 44 years,Female,Less than 9th Grade,248,16943
+2002,45 to 54 years,Female,Less than 9th Grade,246,18621
+2002,55 to 64 years,Female,Less than 9th Grade,153,19623
+2002,65 years and over,Female,Less than 9th Grade,NA,NA
+2002,18 to 24 years,Male,High School Graduate (includes equivalency),1922,23942
+2002,25 to 34 years,Male,High School Graduate (includes equivalency),4261,34611
+2002,35 to 44 years,Male,High School Graduate (includes equivalency),5191,40301
+2002,45 to 54 years,Male,High School Graduate (includes equivalency),4157,41221
+2002,55 to 64 years,Male,High School Graduate (includes equivalency),2009,42875
+2002,65 years and over,Male,High School Graduate (includes equivalency),384,39555
+2002,18 to 24 years,Female,High School Graduate (includes equivalency),1192,19279
+2002,25 to 34 years,Female,High School Graduate (includes equivalency),2345,25034
+2002,35 to 44 years,Female,High School Graduate (includes equivalency),3560,27528
+2002,45 to 54 years,Female,High School Graduate (includes equivalency),3520,28881
+2002,55 to 64 years,Female,High School Graduate (includes equivalency),1903,31114
+2002,65 years and over,Female,High School Graduate (includes equivalency),346,26562
+2002,18 to 24 years,Male,Associate Degree,293,28666
+2002,25 to 34 years,Male,Associate Degree,1161,40726
+2002,35 to 44 years,Male,Associate Degree,1458,52679
+2002,45 to 54 years,Male,Associate Degree,1185,55148
+2002,55 to 64 years,Male,Associate Degree,527,50033
+2002,65 years and over,Male,Associate Degree,NA,NA
+2002,18 to 24 years,Female,Associate Degree,260,23197
+2002,25 to 34 years,Female,Associate Degree,1014,30327
+2002,35 to 44 years,Female,Associate Degree,1406,34785
+2002,45 to 54 years,Female,Associate Degree,1314,36454
+2002,55 to 64 years,Female,Associate Degree,494,36034
+2002,65 years and over,Female,Associate Degree,NA,NA
+2002,18 to 24 years,Male,Bachelor's Degree,346,32902
+2002,25 to 34 years,Male,Bachelor's Degree,3215,53354
+2002,35 to 44 years,Male,Bachelor's Degree,3621,79420
+2002,45 to 54 years,Male,Bachelor's Degree,3241,79611
+2002,55 to 64 years,Male,Bachelor's Degree,1480,72283
+2002,65 years and over,Male,Bachelor's Degree,272,59939
+2002,18 to 24 years,Female,Bachelor's Degree,542,29080
+2002,25 to 34 years,Female,Bachelor's Degree,2701,44030
+2002,35 to 44 years,Female,Bachelor's Degree,2467,50271
+2002,45 to 54 years,Female,Bachelor's Degree,2149,52516
+2002,55 to 64 years,Female,Bachelor's Degree,814,53551
+2002,65 years and over,Female,Bachelor's Degree,95,36806
+2002,18 to 24 years,Male,Master's Degree,NA,NA
+2002,25 to 34 years,Male,Master's Degree,717,62793
+2002,35 to 44 years,Male,Master's Degree,1160,83370
+2002,45 to 54 years,Male,Master's Degree,1305,86417
+2002,55 to 64 years,Male,Master's Degree,771,84030
+2002,65 years and over,Male,Master's Degree,113,68088
+2002,18 to 24 years,Female,Master's Degree,NA,NA
+2002,25 to 34 years,Female,Master's Degree,710,45732
+2002,35 to 44 years,Female,Master's Degree,816,57592
+2002,45 to 54 years,Female,Master's Degree,1166,61001
+2002,55 to 64 years,Female,Master's Degree,533,58840
+2002,65 years and over,Female,Master's Degree,NA,NA
+2002,18 to 24 years,Male,Professional Degree,NA,NA
+2002,25 to 34 years,Male,Professional Degree,199,102882
+2002,35 to 44 years,Male,Professional Degree,370,155673
+2002,45 to 54 years,Male,Professional Degree,434,163064
+2002,55 to 64 years,Male,Professional Degree,235,175376
+2002,65 years and over,Male,Professional Degree,NA,NA
+2002,18 to 24 years,Female,Professional Degree,NA,NA
+2002,25 to 34 years,Female,Professional Degree,159,63470
+2002,35 to 44 years,Female,Professional Degree,186,77583
+2002,45 to 54 years,Female,Professional Degree,142,60912
+2002,55 to 64 years,Female,Professional Degree,NA,NA
+2002,65 years and over,Female,Professional Degree,NA,NA
+2002,18 to 24 years,Male,Doctorate Degree,NA,NA
+2002,25 to 34 years,Male,Doctorate Degree,105,74011
+2002,35 to 44 years,Male,Doctorate Degree,259,99314
+2002,45 to 54 years,Male,Doctorate Degree,375,134149
+2002,55 to 64 years,Male,Doctorate Degree,257,98001
+2002,65 years and over,Male,Doctorate Degree,NA,NA
+2002,18 to 24 years,Female,Doctorate Degree,NA,NA
+2002,25 to 34 years,Female,Doctorate Degree,NA,NA
+2002,35 to 44 years,Female,Doctorate Degree,122,77652
+2002,45 to 54 years,Female,Doctorate Degree,131,84288
+2002,55 to 64 years,Female,Doctorate Degree,NA,NA
+2002,65 years and over,Female,Doctorate Degree,NA,NA
+2002,18 to 24 years,Male,9th to 12th Grade (no diploma),642,21759
+2002,25 to 34 years,Male,9th to 12th Grade (no diploma),1153,25862
+2002,35 to 44 years,Male,9th to 12th Grade (no diploma),1154,34050
+2002,45 to 54 years,Male,9th to 12th Grade (no diploma),772,29312
+2002,55 to 64 years,Male,9th to 12th Grade (no diploma),480,37271
+2002,65 years and over,Male,9th to 12th Grade (no diploma),117,36284
+2002,18 to 24 years,Female,9th to 12th Grade (no diploma),299,14461
+2002,25 to 34 years,Female,9th to 12th Grade (no diploma),452,19361
+2002,35 to 44 years,Female,9th to 12th Grade (no diploma),580,20015
+2002,45 to 54 years,Female,9th to 12th Grade (no diploma),445,21699
+2002,55 to 64 years,Female,9th to 12th Grade (no diploma),304,23973
+2002,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2002,18 to 24 years,Male,Some College (no degree),1145,24454
+2002,25 to 34 years,Male,Some College (no degree),2620,39148
+2002,35 to 44 years,Male,Some College (no degree),2791,51105
+2002,45 to 54 years,Male,Some College (no degree),2676,54437
+2002,55 to 64 years,Male,Some College (no degree),1271,51880
+2002,65 years and over,Male,Some College (no degree),245,50279
+2002,18 to 24 years,Female,Some College (no degree),980,19934
+2002,25 to 34 years,Female,Some College (no degree),1914,28019
+2002,35 to 44 years,Female,Some College (no degree),2124,33437
+2002,45 to 54 years,Female,Some College (no degree),2083,35539
+2002,55 to 64 years,Female,Some College (no degree),1076,35609
+2002,65 years and over,Female,Some College (no degree),156,34487
+2003,18 to 24 years,Male,Less than 9th Grade,220,16805
+2003,25 to 34 years,Male,Less than 9th Grade,665,20977
+2003,35 to 44 years,Male,Less than 9th Grade,622,25733
+2003,45 to 54 years,Male,Less than 9th Grade,479,26139
+2003,55 to 64 years,Male,Less than 9th Grade,296,29067
+2003,65 years and over,Male,Less than 9th Grade,147,23499
+2003,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2003,25 to 34 years,Female,Less than 9th Grade,149,23142
+2003,35 to 44 years,Female,Less than 9th Grade,237,17401
+2003,45 to 54 years,Female,Less than 9th Grade,260,21853
+2003,55 to 64 years,Female,Less than 9th Grade,155,20496
+2003,65 years and over,Female,Less than 9th Grade,75,28687
+2003,18 to 24 years,Male,High School Graduate (includes equivalency),1913,23119
+2003,25 to 34 years,Male,High School Graduate (includes equivalency),4263,33509
+2003,35 to 44 years,Male,High School Graduate (includes equivalency),5139,40885
+2003,45 to 54 years,Male,High School Graduate (includes equivalency),4440,43638
+2003,55 to 64 years,Male,High School Graduate (includes equivalency),2076,44619
+2003,65 years and over,Male,High School Graduate (includes equivalency),364,38108
+2003,18 to 24 years,Female,High School Graduate (includes equivalency),1160,18915
+2003,25 to 34 years,Female,High School Graduate (includes equivalency),2344,26132
+2003,35 to 44 years,Female,High School Graduate (includes equivalency),3409,28975
+2003,45 to 54 years,Female,High School Graduate (includes equivalency),3590,29729
+2003,55 to 64 years,Female,High School Graduate (includes equivalency),1868,30590
+2003,65 years and over,Female,High School Graduate (includes equivalency),375,27955
+2003,18 to 24 years,Male,Associate Degree,282,26554
+2003,25 to 34 years,Male,Associate Degree,1228,42200
+2003,35 to 44 years,Male,Associate Degree,1429,50832
+2003,45 to 54 years,Male,Associate Degree,1385,53701
+2003,55 to 64 years,Male,Associate Degree,586,55888
+2003,65 years and over,Male,Associate Degree,NA,NA
+2003,18 to 24 years,Female,Associate Degree,261,23070
+2003,25 to 34 years,Female,Associate Degree,998,32145
+2003,35 to 44 years,Female,Associate Degree,1356,38078
+2003,45 to 54 years,Female,Associate Degree,1393,40785
+2003,55 to 64 years,Female,Associate Degree,576,37467
+2003,65 years and over,Female,Associate Degree,NA,NA
+2003,18 to 24 years,Male,Bachelor's Degree,389,32598
+2003,25 to 34 years,Male,Bachelor's Degree,3147,53271
+2003,35 to 44 years,Male,Bachelor's Degree,3574,75812
+2003,45 to 54 years,Male,Bachelor's Degree,3215,78430
+2003,55 to 64 years,Male,Bachelor's Degree,1609,79764
+2003,65 years and over,Male,Bachelor's Degree,300,78517
+2003,18 to 24 years,Female,Bachelor's Degree,544,27571
+2003,25 to 34 years,Female,Bachelor's Degree,2699,47364
+2003,35 to 44 years,Female,Bachelor's Degree,2329,51027
+2003,45 to 54 years,Female,Bachelor's Degree,2248,50770
+2003,55 to 64 years,Female,Bachelor's Degree,975,47571
+2003,65 years and over,Female,Bachelor's Degree,76,37234
+2003,18 to 24 years,Male,Master's Degree,NA,NA
+2003,25 to 34 years,Male,Master's Degree,733,69602
+2003,35 to 44 years,Male,Master's Degree,1163,88353
+2003,45 to 54 years,Male,Master's Degree,1312,87235
+2003,55 to 64 years,Male,Master's Degree,808,93679
+2003,65 years and over,Male,Master's Degree,109,87870
+2003,18 to 24 years,Female,Master's Degree,NA,NA
+2003,25 to 34 years,Female,Master's Degree,764,49695
+2003,35 to 44 years,Female,Master's Degree,805,58090
+2003,45 to 54 years,Female,Master's Degree,1119,62874
+2003,55 to 64 years,Female,Master's Degree,622,58912
+2003,65 years and over,Female,Master's Degree,NA,NA
+2003,18 to 24 years,Male,Professional Degree,NA,NA
+2003,25 to 34 years,Male,Professional Degree,209,89475
+2003,35 to 44 years,Male,Professional Degree,363,151687
+2003,45 to 54 years,Male,Professional Degree,413,168334
+2003,55 to 64 years,Male,Professional Degree,269,171876
+2003,65 years and over,Male,Professional Degree,93,114715
+2003,18 to 24 years,Female,Professional Degree,NA,NA
+2003,25 to 34 years,Female,Professional Degree,154,71931
+2003,35 to 44 years,Female,Professional Degree,178,105852
+2003,45 to 54 years,Female,Professional Degree,144,76768
+2003,55 to 64 years,Female,Professional Degree,78,78241
+2003,65 years and over,Female,Professional Degree,NA,NA
+2003,18 to 24 years,Male,Doctorate Degree,NA,NA
+2003,25 to 34 years,Male,Doctorate Degree,134,72164
+2003,35 to 44 years,Male,Doctorate Degree,232,113805
+2003,45 to 54 years,Male,Doctorate Degree,322,108211
+2003,55 to 64 years,Male,Doctorate Degree,288,117770
+2003,65 years and over,Male,Doctorate Degree,NA,NA
+2003,18 to 24 years,Female,Doctorate Degree,NA,NA
+2003,25 to 34 years,Female,Doctorate Degree,86,67583
+2003,35 to 44 years,Female,Doctorate Degree,124,97756
+2003,45 to 54 years,Female,Doctorate Degree,145,78401
+2003,55 to 64 years,Female,Doctorate Degree,96,95666
+2003,65 years and over,Female,Doctorate Degree,NA,NA
+2003,18 to 24 years,Male,9th to 12th Grade (no diploma),620,20156
+2003,25 to 34 years,Male,9th to 12th Grade (no diploma),1045,26797
+2003,35 to 44 years,Male,9th to 12th Grade (no diploma),1083,30968
+2003,45 to 54 years,Male,9th to 12th Grade (no diploma),684,33781
+2003,55 to 64 years,Male,9th to 12th Grade (no diploma),441,34341
+2003,65 years and over,Male,9th to 12th Grade (no diploma),113,32695
+2003,18 to 24 years,Female,9th to 12th Grade (no diploma),248,16698
+2003,25 to 34 years,Female,9th to 12th Grade (no diploma),411,19646
+2003,35 to 44 years,Female,9th to 12th Grade (no diploma),562,23908
+2003,45 to 54 years,Female,9th to 12th Grade (no diploma),449,22076
+2003,55 to 64 years,Female,9th to 12th Grade (no diploma),247,22625
+2003,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2003,18 to 24 years,Male,Some College (no degree),1031,23872
+2003,25 to 34 years,Male,Some College (no degree),2508,40417
+2003,35 to 44 years,Male,Some College (no degree),2651,49498
+2003,45 to 54 years,Male,Some College (no degree),2659,52314
+2003,55 to 64 years,Male,Some College (no degree),1277,54630
+2003,65 years and over,Male,Some College (no degree),241,59160
+2003,18 to 24 years,Female,Some College (no degree),934,19727
+2003,25 to 34 years,Female,Some College (no degree),1889,27927
+2003,35 to 44 years,Female,Some College (no degree),2113,33814
+2003,45 to 54 years,Female,Some College (no degree),2081,36008
+2003,55 to 64 years,Female,Some College (no degree),1070,36032
+2003,65 years and over,Female,Some College (no degree),188,31018
+2004,18 to 24 years,Male,Less than 9th Grade,217,17601
+2004,25 to 34 years,Male,Less than 9th Grade,668,21574
+2004,35 to 44 years,Male,Less than 9th Grade,701,25883
+2004,45 to 54 years,Male,Less than 9th Grade,571,24989
+2004,55 to 64 years,Male,Less than 9th Grade,363,26536
+2004,65 years and over,Male,Less than 9th Grade,125,48059
+2004,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2004,25 to 34 years,Female,Less than 9th Grade,177,17301
+2004,35 to 44 years,Female,Less than 9th Grade,279,18100
+2004,45 to 54 years,Female,Less than 9th Grade,242,21045
+2004,55 to 64 years,Female,Less than 9th Grade,155,19369
+2004,65 years and over,Female,Less than 9th Grade,NA,NA
+2004,18 to 24 years,Male,High School Graduate (includes equivalency),2014,25891
+2004,25 to 34 years,Male,High School Graduate (includes equivalency),4321,33121
+2004,35 to 44 years,Male,High School Graduate (includes equivalency),5278,42387
+2004,45 to 54 years,Male,High School Graduate (includes equivalency),4845,44183
+2004,55 to 64 years,Male,High School Graduate (includes equivalency),2183,43953
+2004,65 years and over,Male,High School Graduate (includes equivalency),425,40176
+2004,18 to 24 years,Female,High School Graduate (includes equivalency),1111,19203
+2004,25 to 34 years,Female,High School Graduate (includes equivalency),2173,27706
+2004,35 to 44 years,Female,High School Graduate (includes equivalency),3328,28479
+2004,45 to 54 years,Female,High School Graduate (includes equivalency),3578,30362
+2004,55 to 64 years,Female,High School Graduate (includes equivalency),1925,30690
+2004,65 years and over,Female,High School Graduate (includes equivalency),390,33844
+2004,18 to 24 years,Male,Associate Degree,306,27632
+2004,25 to 34 years,Male,Associate Degree,1257,41909
+2004,35 to 44 years,Male,Associate Degree,1535,51345
+2004,45 to 54 years,Male,Associate Degree,1384,53230
+2004,55 to 64 years,Male,Associate Degree,652,55348
+2004,65 years and over,Male,Associate Degree,78,52935
+2004,18 to 24 years,Female,Associate Degree,288,24279
+2004,25 to 34 years,Female,Associate Degree,962,31594
+2004,35 to 44 years,Female,Associate Degree,1338,37593
+2004,45 to 54 years,Female,Associate Degree,1420,40668
+2004,55 to 64 years,Female,Associate Degree,694,37740
+2004,65 years and over,Female,Associate Degree,78,35891
+2004,18 to 24 years,Male,Bachelor's Degree,396,34010
+2004,25 to 34 years,Male,Bachelor's Degree,3178,55520
+2004,35 to 44 years,Male,Bachelor's Degree,3529,78343
+2004,45 to 54 years,Male,Bachelor's Degree,3081,80274
+2004,55 to 64 years,Male,Bachelor's Degree,1645,79903
+2004,65 years and over,Male,Bachelor's Degree,272,62373
+2004,18 to 24 years,Female,Bachelor's Degree,507,30246
+2004,25 to 34 years,Female,Bachelor's Degree,2733,41961
+2004,35 to 44 years,Female,Bachelor's Degree,2477,54528
+2004,45 to 54 years,Female,Bachelor's Degree,2336,53083
+2004,55 to 64 years,Female,Bachelor's Degree,1018,47308
+2004,65 years and over,Female,Bachelor's Degree,119,52963
+2004,18 to 24 years,Male,Master's Degree,NA,NA
+2004,25 to 34 years,Male,Master's Degree,747,62836
+2004,35 to 44 years,Male,Master's Degree,1201,105546
+2004,45 to 54 years,Male,Master's Degree,1348,103149
+2004,55 to 64 years,Male,Master's Degree,819,82931
+2004,65 years and over,Male,Master's Degree,129,80898
+2004,18 to 24 years,Female,Master's Degree,NA,NA
+2004,25 to 34 years,Female,Master's Degree,789,49297
+2004,35 to 44 years,Female,Master's Degree,879,59840
+2004,45 to 54 years,Female,Master's Degree,1109,67621
+2004,55 to 64 years,Female,Master's Degree,625,67323
+2004,65 years and over,Female,Master's Degree,NA,NA
+2004,18 to 24 years,Male,Professional Degree,NA,NA
+2004,25 to 34 years,Male,Professional Degree,203,83239
+2004,35 to 44 years,Male,Professional Degree,374,143796
+2004,45 to 54 years,Male,Professional Degree,395,164204
+2004,55 to 64 years,Male,Professional Degree,256,169496
+2004,65 years and over,Male,Professional Degree,81,176332
+2004,18 to 24 years,Female,Professional Degree,NA,NA
+2004,25 to 34 years,Female,Professional Degree,131,74495
+2004,35 to 44 years,Female,Professional Degree,177,96198
+2004,45 to 54 years,Female,Professional Degree,155,88527
+2004,55 to 64 years,Female,Professional Degree,79,75469
+2004,65 years and over,Female,Professional Degree,NA,NA
+2004,18 to 24 years,Male,Doctorate Degree,NA,NA
+2004,25 to 34 years,Male,Doctorate Degree,102,70383
+2004,35 to 44 years,Male,Doctorate Degree,248,110301
+2004,45 to 54 years,Male,Doctorate Degree,319,127341
+2004,55 to 64 years,Male,Doctorate Degree,358,119416
+2004,65 years and over,Male,Doctorate Degree,NA,NA
+2004,18 to 24 years,Female,Doctorate Degree,NA,NA
+2004,25 to 34 years,Female,Doctorate Degree,89,65637
+2004,35 to 44 years,Female,Doctorate Degree,150,75619
+2004,45 to 54 years,Female,Doctorate Degree,117,88683
+2004,55 to 64 years,Female,Doctorate Degree,83,90465
+2004,65 years and over,Female,Doctorate Degree,NA,NA
+2004,18 to 24 years,Male,9th to 12th Grade (no diploma),593,24220
+2004,25 to 34 years,Male,9th to 12th Grade (no diploma),1130,27402
+2004,35 to 44 years,Male,9th to 12th Grade (no diploma),1039,30877
+2004,45 to 54 years,Male,9th to 12th Grade (no diploma),749,33962
+2004,55 to 64 years,Male,9th to 12th Grade (no diploma),431,34678
+2004,65 years and over,Male,9th to 12th Grade (no diploma),114,26273
+2004,18 to 24 years,Female,9th to 12th Grade (no diploma),249,17082
+2004,25 to 34 years,Female,9th to 12th Grade (no diploma),455,19869
+2004,35 to 44 years,Female,9th to 12th Grade (no diploma),510,21924
+2004,45 to 54 years,Female,9th to 12th Grade (no diploma),500,23057
+2004,55 to 64 years,Female,9th to 12th Grade (no diploma),262,21328
+2004,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2004,18 to 24 years,Male,Some College (no degree),1026,24863
+2004,25 to 34 years,Male,Some College (no degree),2505,40499
+2004,35 to 44 years,Male,Some College (no degree),2629,51813
+2004,45 to 54 years,Male,Some College (no degree),2552,53771
+2004,55 to 64 years,Male,Some College (no degree),1320,52840
+2004,65 years and over,Male,Some College (no degree),250,58402
+2004,18 to 24 years,Female,Some College (no degree),1021,20880
+2004,25 to 34 years,Female,Some College (no degree),1758,30240
+2004,35 to 44 years,Female,Some College (no degree),2076,34031
+2004,45 to 54 years,Female,Some College (no degree),2211,35928
+2004,55 to 64 years,Female,Some College (no degree),1141,34881
+2004,65 years and over,Female,Some College (no degree),155,37232
+2005,18 to 24 years,Male,Less than 9th Grade,221,17556
+2005,25 to 34 years,Male,Less than 9th Grade,700,22052
+2005,35 to 44 years,Male,Less than 9th Grade,754,26968
+2005,45 to 54 years,Male,Less than 9th Grade,539,28087
+2005,55 to 64 years,Male,Less than 9th Grade,313,30680
+2005,65 years and over,Male,Less than 9th Grade,118,27147
+2005,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2005,25 to 34 years,Female,Less than 9th Grade,140,17409
+2005,35 to 44 years,Female,Less than 9th Grade,243,16802
+2005,45 to 54 years,Female,Less than 9th Grade,282,19189
+2005,55 to 64 years,Female,Less than 9th Grade,187,19206
+2005,65 years and over,Female,Less than 9th Grade,NA,NA
+2005,18 to 24 years,Male,High School Graduate (includes equivalency),1986,24053
+2005,25 to 34 years,Male,High School Graduate (includes equivalency),4474,33866
+2005,35 to 44 years,Male,High School Graduate (includes equivalency),5126,42133
+2005,45 to 54 years,Male,High School Graduate (includes equivalency),4806,46622
+2005,55 to 64 years,Male,High School Graduate (includes equivalency),2341,47151
+2005,65 years and over,Male,High School Graduate (includes equivalency),511,43431
+2005,18 to 24 years,Female,High School Graduate (includes equivalency),1133,19412
+2005,25 to 34 years,Female,High School Graduate (includes equivalency),2230,25783
+2005,35 to 44 years,Female,High School Graduate (includes equivalency),3170,29301
+2005,45 to 54 years,Female,High School Graduate (includes equivalency),3582,31246
+2005,55 to 64 years,Female,High School Graduate (includes equivalency),2040,31757
+2005,65 years and over,Female,High School Graduate (includes equivalency),390,26712
+2005,18 to 24 years,Male,Associate Degree,312,26984
+2005,25 to 34 years,Male,Associate Degree,1291,42666
+2005,35 to 44 years,Male,Associate Degree,1527,54914
+2005,45 to 54 years,Male,Associate Degree,1486,57295
+2005,55 to 64 years,Male,Associate Degree,633,60556
+2005,65 years and over,Male,Associate Degree,84,70542
+2005,18 to 24 years,Female,Associate Degree,344,25407
+2005,25 to 34 years,Female,Associate Degree,1062,32498
+2005,35 to 44 years,Female,Associate Degree,1349,37979
+2005,45 to 54 years,Female,Associate Degree,1524,40924
+2005,55 to 64 years,Female,Associate Degree,730,42812
+2005,65 years and over,Female,Associate Degree,86,37693
+2005,18 to 24 years,Male,Bachelor's Degree,389,33977
+2005,25 to 34 years,Male,Bachelor's Degree,3106,57852
+2005,35 to 44 years,Male,Bachelor's Degree,3542,80418
+2005,45 to 54 years,Male,Bachelor's Degree,3275,90298
+2005,55 to 64 years,Male,Bachelor's Degree,1825,74334
+2005,65 years and over,Male,Bachelor's Degree,285,84722
+2005,18 to 24 years,Female,Bachelor's Degree,555,30911
+2005,25 to 34 years,Female,Bachelor's Degree,2760,42038
+2005,35 to 44 years,Female,Bachelor's Degree,2706,54323
+2005,45 to 54 years,Female,Bachelor's Degree,2406,56306
+2005,55 to 64 years,Female,Bachelor's Degree,1070,49231
+2005,65 years and over,Female,Bachelor's Degree,130,50294
+2005,18 to 24 years,Male,Master's Degree,NA,NA
+2005,25 to 34 years,Male,Master's Degree,764,63193
+2005,35 to 44 years,Male,Master's Degree,1214,94523
+2005,45 to 54 years,Male,Master's Degree,1286,106936
+2005,55 to 64 years,Male,Master's Degree,861,101933
+2005,65 years and over,Male,Master's Degree,149,145694
+2005,18 to 24 years,Female,Master's Degree,NA,NA
+2005,25 to 34 years,Female,Master's Degree,815,49890
+2005,35 to 44 years,Female,Master's Degree,969,62222
+2005,45 to 54 years,Female,Master's Degree,1073,64386
+2005,55 to 64 years,Female,Master's Degree,672,61661
+2005,65 years and over,Female,Master's Degree,NA,NA
+2005,18 to 24 years,Male,Professional Degree,NA,NA
+2005,25 to 34 years,Male,Professional Degree,165,100835
+2005,35 to 44 years,Male,Professional Degree,377,158347
+2005,45 to 54 years,Male,Professional Degree,428,168100
+2005,55 to 64 years,Male,Professional Degree,291,155366
+2005,65 years and over,Male,Professional Degree,107,150810
+2005,18 to 24 years,Female,Professional Degree,NA,NA
+2005,25 to 34 years,Female,Professional Degree,135,78288
+2005,35 to 44 years,Female,Professional Degree,225,104396
+2005,45 to 54 years,Female,Professional Degree,193,104074
+2005,55 to 64 years,Female,Professional Degree,96,107295
+2005,65 years and over,Female,Professional Degree,NA,NA
+2005,18 to 24 years,Male,Doctorate Degree,NA,NA
+2005,25 to 34 years,Male,Doctorate Degree,111,75711
+2005,35 to 44 years,Male,Doctorate Degree,302,113860
+2005,45 to 54 years,Male,Doctorate Degree,332,139621
+2005,55 to 64 years,Male,Doctorate Degree,327,104518
+2005,65 years and over,Male,Doctorate Degree,NA,NA
+2005,18 to 24 years,Female,Doctorate Degree,NA,NA
+2005,25 to 34 years,Female,Doctorate Degree,92,72909
+2005,35 to 44 years,Female,Doctorate Degree,116,79958
+2005,45 to 54 years,Female,Doctorate Degree,116,89958
+2005,55 to 64 years,Female,Doctorate Degree,88,88470
+2005,65 years and over,Female,Doctorate Degree,NA,NA
+2005,18 to 24 years,Male,9th to 12th Grade (no diploma),578,21507
+2005,25 to 34 years,Male,9th to 12th Grade (no diploma),1124,27002
+2005,35 to 44 years,Male,9th to 12th Grade (no diploma),1075,30871
+2005,45 to 54 years,Male,9th to 12th Grade (no diploma),913,33926
+2005,55 to 64 years,Male,9th to 12th Grade (no diploma),442,39800
+2005,65 years and over,Male,9th to 12th Grade (no diploma),97,32929
+2005,18 to 24 years,Female,9th to 12th Grade (no diploma),246,15458
+2005,25 to 34 years,Female,9th to 12th Grade (no diploma),424,22337
+2005,35 to 44 years,Female,9th to 12th Grade (no diploma),470,22026
+2005,45 to 54 years,Female,9th to 12th Grade (no diploma),482,24353
+2005,55 to 64 years,Female,9th to 12th Grade (no diploma),271,21882
+2005,65 years and over,Female,9th to 12th Grade (no diploma),88,18227
+2005,18 to 24 years,Male,Some College (no degree),1223,24708
+2005,25 to 34 years,Male,Some College (no degree),2556,42196
+2005,35 to 44 years,Male,Some College (no degree),2686,52402
+2005,45 to 54 years,Male,Some College (no degree),2651,54949
+2005,55 to 64 years,Male,Some College (no degree),1430,59459
+2005,65 years and over,Male,Some College (no degree),209,51258
+2005,18 to 24 years,Female,Some College (no degree),976,21468
+2005,25 to 34 years,Female,Some College (no degree),1790,30924
+2005,35 to 44 years,Female,Some College (no degree),2001,36401
+2005,45 to 54 years,Female,Some College (no degree),2185,38239
+2005,55 to 64 years,Female,Some College (no degree),1281,38262
+2005,65 years and over,Female,Some College (no degree),192,37443
+2006,18 to 24 years,Male,Less than 9th Grade,211,19361
+2006,25 to 34 years,Male,Less than 9th Grade,682,23453
+2006,35 to 44 years,Male,Less than 9th Grade,682,29302
+2006,45 to 54 years,Male,Less than 9th Grade,518,28988
+2006,55 to 64 years,Male,Less than 9th Grade,348,29913
+2006,65 years and over,Male,Less than 9th Grade,130,26062
+2006,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2006,25 to 34 years,Female,Less than 9th Grade,173,18180
+2006,35 to 44 years,Female,Less than 9th Grade,271,21152
+2006,45 to 54 years,Female,Less than 9th Grade,272,21633
+2006,55 to 64 years,Female,Less than 9th Grade,160,19681
+2006,65 years and over,Female,Less than 9th Grade,NA,NA
+2006,18 to 24 years,Male,High School Graduate (includes equivalency),2117,24974
+2006,25 to 34 years,Male,High School Graduate (includes equivalency),4470,37181
+2006,35 to 44 years,Male,High School Graduate (includes equivalency),4991,45316
+2006,45 to 54 years,Male,High School Graduate (includes equivalency),5083,49199
+2006,55 to 64 years,Male,High School Graduate (includes equivalency),2282,47741
+2006,65 years and over,Male,High School Graduate (includes equivalency),543,42766
+2006,18 to 24 years,Female,High School Graduate (includes equivalency),1091,20427
+2006,25 to 34 years,Female,High School Graduate (includes equivalency),2291,26299
+2006,35 to 44 years,Female,High School Graduate (includes equivalency),3110,30769
+2006,45 to 54 years,Female,High School Graduate (includes equivalency),3650,31984
+2006,55 to 64 years,Female,High School Graduate (includes equivalency),2126,31015
+2006,65 years and over,Female,High School Graduate (includes equivalency),476,29170
+2006,18 to 24 years,Male,Associate Degree,350,29698
+2006,25 to 34 years,Male,Associate Degree,1325,42357
+2006,35 to 44 years,Male,Associate Degree,1507,58759
+2006,45 to 54 years,Male,Associate Degree,1482,57363
+2006,55 to 64 years,Male,Associate Degree,702,51978
+2006,65 years and over,Male,Associate Degree,93,48347
+2006,18 to 24 years,Female,Associate Degree,327,26638
+2006,25 to 34 years,Female,Associate Degree,1134,38857
+2006,35 to 44 years,Female,Associate Degree,1336,41892
+2006,45 to 54 years,Female,Associate Degree,1474,44191
+2006,55 to 64 years,Female,Associate Degree,712,39477
+2006,65 years and over,Female,Associate Degree,104,37079
+2006,18 to 24 years,Male,Bachelor's Degree,356,36614
+2006,25 to 34 years,Male,Bachelor's Degree,3348,64631
+2006,35 to 44 years,Male,Bachelor's Degree,3784,82285
+2006,45 to 54 years,Male,Bachelor's Degree,3369,85820
+2006,55 to 64 years,Male,Bachelor's Degree,1948,80259
+2006,65 years and over,Male,Bachelor's Degree,314,65644
+2006,18 to 24 years,Female,Bachelor's Degree,562,32652
+2006,25 to 34 years,Female,Bachelor's Degree,2948,46209
+2006,35 to 44 years,Female,Bachelor's Degree,2623,57469
+2006,45 to 54 years,Female,Bachelor's Degree,2672,59684
+2006,55 to 64 years,Female,Bachelor's Degree,1240,56219
+2006,65 years and over,Female,Bachelor's Degree,163,52570
+2006,18 to 24 years,Male,Master's Degree,NA,NA
+2006,25 to 34 years,Male,Master's Degree,825,73039
+2006,35 to 44 years,Male,Master's Degree,1315,102786
+2006,45 to 54 years,Male,Master's Degree,1340,113557
+2006,55 to 64 years,Male,Master's Degree,887,90981
+2006,65 years and over,Male,Master's Degree,174,75810
+2006,18 to 24 years,Female,Master's Degree,NA,NA
+2006,25 to 34 years,Female,Master's Degree,901,53763
+2006,35 to 44 years,Female,Master's Degree,975,64957
+2006,45 to 54 years,Female,Master's Degree,1095,69627
+2006,55 to 64 years,Female,Master's Degree,691,64732
+2006,65 years and over,Female,Master's Degree,83,65398
+2006,18 to 24 years,Male,Professional Degree,NA,NA
+2006,25 to 34 years,Male,Professional Degree,194,84981
+2006,35 to 44 years,Male,Professional Degree,359,168816
+2006,45 to 54 years,Male,Professional Degree,464,154007
+2006,55 to 64 years,Male,Professional Degree,291,146420
+2006,65 years and over,Male,Professional Degree,117,121051
+2006,18 to 24 years,Female,Professional Degree,NA,NA
+2006,25 to 34 years,Female,Professional Degree,167,92168
+2006,35 to 44 years,Female,Professional Degree,187,102657
+2006,45 to 54 years,Female,Professional Degree,170,101356
+2006,55 to 64 years,Female,Professional Degree,125,112249
+2006,65 years and over,Female,Professional Degree,NA,NA
+2006,18 to 24 years,Male,Doctorate Degree,NA,NA
+2006,25 to 34 years,Male,Doctorate Degree,80,71066
+2006,35 to 44 years,Male,Doctorate Degree,303,132660
+2006,45 to 54 years,Male,Doctorate Degree,340,141958
+2006,55 to 64 years,Male,Doctorate Degree,345,117244
+2006,65 years and over,Male,Doctorate Degree,105,118787
+2006,18 to 24 years,Female,Doctorate Degree,NA,NA
+2006,25 to 34 years,Female,Doctorate Degree,105,70244
+2006,35 to 44 years,Female,Doctorate Degree,134,114093
+2006,45 to 54 years,Female,Doctorate Degree,117,90411
+2006,55 to 64 years,Female,Doctorate Degree,126,89626
+2006,65 years and over,Female,Doctorate Degree,NA,NA
+2006,18 to 24 years,Male,9th to 12th Grade (no diploma),556,20918
+2006,25 to 34 years,Male,9th to 12th Grade (no diploma),1178,29347
+2006,35 to 44 years,Male,9th to 12th Grade (no diploma),1143,31018
+2006,45 to 54 years,Male,9th to 12th Grade (no diploma),932,35615
+2006,55 to 64 years,Male,9th to 12th Grade (no diploma),484,41136
+2006,65 years and over,Male,9th to 12th Grade (no diploma),135,32810
+2006,18 to 24 years,Female,9th to 12th Grade (no diploma),242,17514
+2006,25 to 34 years,Female,9th to 12th Grade (no diploma),416,21955
+2006,35 to 44 years,Female,9th to 12th Grade (no diploma),510,24637
+2006,45 to 54 years,Female,9th to 12th Grade (no diploma),504,24304
+2006,55 to 64 years,Female,9th to 12th Grade (no diploma),298,25078
+2006,65 years and over,Female,9th to 12th Grade (no diploma),75,27948
+2006,18 to 24 years,Male,Some College (no degree),1245,26957
+2006,25 to 34 years,Male,Some College (no degree),2506,41073
+2006,35 to 44 years,Male,Some College (no degree),2624,53080
+2006,45 to 54 years,Male,Some College (no degree),2593,56320
+2006,55 to 64 years,Male,Some College (no degree),1552,56120
+2006,65 years and over,Male,Some College (no degree),218,51091
+2006,18 to 24 years,Female,Some College (no degree),980,21822
+2006,25 to 34 years,Female,Some College (no degree),1784,32853
+2006,35 to 44 years,Female,Some College (no degree),2102,37323
+2006,45 to 54 years,Female,Some College (no degree),2217,39785
+2006,55 to 64 years,Female,Some College (no degree),1320,40749
+2006,65 years and over,Female,Some College (no degree),190,43082
+2007,18 to 24 years,Male,Less than 9th Grade,182,18020
+2007,25 to 34 years,Male,Less than 9th Grade,543,26624
+2007,35 to 44 years,Male,Less than 9th Grade,675,25877
+2007,45 to 54 years,Male,Less than 9th Grade,524,30127
+2007,55 to 64 years,Male,Less than 9th Grade,298,32337
+2007,65 years and over,Male,Less than 9th Grade,102,33540
+2007,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2007,25 to 34 years,Female,Less than 9th Grade,107,19341
+2007,35 to 44 years,Female,Less than 9th Grade,288,23120
+2007,45 to 54 years,Female,Less than 9th Grade,266,20279
+2007,55 to 64 years,Female,Less than 9th Grade,119,21428
+2007,65 years and over,Female,Less than 9th Grade,NA,NA
+2007,18 to 24 years,Male,High School Graduate (includes equivalency),2013,25153
+2007,25 to 34 years,Male,High School Graduate (includes equivalency),4399,35995
+2007,35 to 44 years,Male,High School Graduate (includes equivalency),4735,47149
+2007,45 to 54 years,Male,High School Graduate (includes equivalency),5120,46677
+2007,55 to 64 years,Male,High School Graduate (includes equivalency),2424,46037
+2007,65 years and over,Male,High School Graduate (includes equivalency),545,47557
+2007,18 to 24 years,Female,High School Graduate (includes equivalency),1101,21389
+2007,25 to 34 years,Female,High School Graduate (includes equivalency),2219,30092
+2007,35 to 44 years,Female,High School Graduate (includes equivalency),2881,30854
+2007,45 to 54 years,Female,High School Graduate (includes equivalency),3601,33079
+2007,55 to 64 years,Female,High School Graduate (includes equivalency),2273,31828
+2007,65 years and over,Female,High School Graduate (includes equivalency),473,29610
+2007,18 to 24 years,Male,Associate Degree,310,29542
+2007,25 to 34 years,Male,Associate Degree,1269,45691
+2007,35 to 44 years,Male,Associate Degree,1500,55394
+2007,45 to 54 years,Male,Associate Degree,1509,56903
+2007,55 to 64 years,Male,Associate Degree,833,56808
+2007,65 years and over,Male,Associate Degree,133,54063
+2007,18 to 24 years,Female,Associate Degree,305,25130
+2007,25 to 34 years,Female,Associate Degree,1148,39606
+2007,35 to 44 years,Female,Associate Degree,1372,40762
+2007,45 to 54 years,Female,Associate Degree,1518,45759
+2007,55 to 64 years,Female,Associate Degree,767,41133
+2007,65 years and over,Female,Associate Degree,86,40408
+2007,18 to 24 years,Male,Bachelor's Degree,474,37025
+2007,25 to 34 years,Male,Bachelor's Degree,3435,63175
+2007,35 to 44 years,Male,Bachelor's Degree,3692,81941
+2007,45 to 54 years,Male,Bachelor's Degree,3376,88242
+2007,55 to 64 years,Male,Bachelor's Degree,2082,83669
+2007,65 years and over,Male,Bachelor's Degree,376,86467
+2007,18 to 24 years,Female,Bachelor's Degree,607,33741
+2007,25 to 34 years,Female,Bachelor's Degree,3056,45328
+2007,35 to 44 years,Female,Bachelor's Degree,2625,57778
+2007,45 to 54 years,Female,Bachelor's Degree,2642,59977
+2007,55 to 64 years,Female,Bachelor's Degree,1403,56015
+2007,65 years and over,Female,Bachelor's Degree,205,45405
+2007,18 to 24 years,Male,Master's Degree,NA,NA
+2007,25 to 34 years,Male,Master's Degree,839,72069
+2007,35 to 44 years,Male,Master's Degree,1420,99753
+2007,45 to 54 years,Male,Master's Degree,1295,106482
+2007,55 to 64 years,Male,Master's Degree,1062,91470
+2007,65 years and over,Male,Master's Degree,184,100298
+2007,18 to 24 years,Female,Master's Degree,NA,NA
+2007,25 to 34 years,Female,Master's Degree,1124,55475
+2007,35 to 44 years,Female,Master's Degree,1183,64924
+2007,45 to 54 years,Female,Master's Degree,1217,68523
+2007,55 to 64 years,Female,Master's Degree,765,64867
+2007,65 years and over,Female,Master's Degree,100,61014
+2007,18 to 24 years,Male,Professional Degree,NA,NA
+2007,25 to 34 years,Male,Professional Degree,160,103501
+2007,35 to 44 years,Male,Professional Degree,338,167587
+2007,45 to 54 years,Male,Professional Degree,407,155803
+2007,55 to 64 years,Male,Professional Degree,338,168785
+2007,65 years and over,Male,Professional Degree,89,133626
+2007,18 to 24 years,Female,Professional Degree,NA,NA
+2007,25 to 34 years,Female,Professional Degree,183,80778
+2007,35 to 44 years,Female,Professional Degree,189,92867
+2007,45 to 54 years,Female,Professional Degree,181,90506
+2007,55 to 64 years,Female,Professional Degree,96,100205
+2007,65 years and over,Female,Professional Degree,NA,NA
+2007,18 to 24 years,Male,Doctorate Degree,NA,NA
+2007,25 to 34 years,Male,Doctorate Degree,108,83929
+2007,35 to 44 years,Male,Doctorate Degree,285,109723
+2007,45 to 54 years,Male,Doctorate Degree,313,131893
+2007,55 to 64 years,Male,Doctorate Degree,300,128574
+2007,65 years and over,Male,Doctorate Degree,119,101914
+2007,18 to 24 years,Female,Doctorate Degree,NA,NA
+2007,25 to 34 years,Female,Doctorate Degree,83,78236
+2007,35 to 44 years,Female,Doctorate Degree,149,83998
+2007,45 to 54 years,Female,Doctorate Degree,128,80407
+2007,55 to 64 years,Female,Doctorate Degree,105,76745
+2007,65 years and over,Female,Doctorate Degree,NA,NA
+2007,18 to 24 years,Male,9th to 12th Grade (no diploma),527,22095
+2007,25 to 34 years,Male,9th to 12th Grade (no diploma),1039,28475
+2007,35 to 44 years,Male,9th to 12th Grade (no diploma),968,34094
+2007,45 to 54 years,Male,9th to 12th Grade (no diploma),898,35858
+2007,55 to 64 years,Male,9th to 12th Grade (no diploma),390,40983
+2007,65 years and over,Male,9th to 12th Grade (no diploma),156,40922
+2007,18 to 24 years,Female,9th to 12th Grade (no diploma),216,18013
+2007,25 to 34 years,Female,9th to 12th Grade (no diploma),395,20899
+2007,35 to 44 years,Female,9th to 12th Grade (no diploma),500,23344
+2007,45 to 54 years,Female,9th to 12th Grade (no diploma),426,23822
+2007,55 to 64 years,Female,9th to 12th Grade (no diploma),251,23153
+2007,65 years and over,Female,9th to 12th Grade (no diploma),78,20480
+2007,18 to 24 years,Male,Some College (no degree),1243,25739
+2007,25 to 34 years,Male,Some College (no degree),2513,41551
+2007,35 to 44 years,Male,Some College (no degree),2739,55232
+2007,45 to 54 years,Male,Some College (no degree),2693,57991
+2007,55 to 64 years,Male,Some College (no degree),1619,53532
+2007,65 years and over,Male,Some College (no degree),304,45505
+2007,18 to 24 years,Female,Some College (no degree),1078,23748
+2007,25 to 34 years,Female,Some College (no degree),1846,34561
+2007,35 to 44 years,Female,Some College (no degree),2064,38419
+2007,45 to 54 years,Female,Some College (no degree),2333,39509
+2007,55 to 64 years,Female,Some College (no degree),1430,40648
+2007,65 years and over,Female,Some College (no degree),243,50688
+2008,18 to 24 years,Male,Less than 9th Grade,128,19896
+2008,25 to 34 years,Male,Less than 9th Grade,468,24211
+2008,35 to 44 years,Male,Less than 9th Grade,588,27366
+2008,45 to 54 years,Male,Less than 9th Grade,497,30166
+2008,55 to 64 years,Male,Less than 9th Grade,333,34106
+2008,65 years and over,Male,Less than 9th Grade,96,37047
+2008,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2008,25 to 34 years,Female,Less than 9th Grade,145,17923
+2008,35 to 44 years,Female,Less than 9th Grade,236,21641
+2008,45 to 54 years,Female,Less than 9th Grade,230,21945
+2008,55 to 64 years,Female,Less than 9th Grade,148,24644
+2008,65 years and over,Female,Less than 9th Grade,NA,NA
+2008,18 to 24 years,Male,High School Graduate (includes equivalency),1748,26218
+2008,25 to 34 years,Male,High School Graduate (includes equivalency),4066,36742
+2008,35 to 44 years,Male,High School Graduate (includes equivalency),4371,47057
+2008,45 to 54 years,Male,High School Graduate (includes equivalency),4817,49003
+2008,55 to 64 years,Male,High School Graduate (includes equivalency),2410,47568
+2008,65 years and over,Male,High School Graduate (includes equivalency),531,54235
+2008,18 to 24 years,Female,High School Graduate (includes equivalency),951,22814
+2008,25 to 34 years,Female,High School Graduate (includes equivalency),2104,27607
+2008,35 to 44 years,Female,High School Graduate (includes equivalency),2664,30574
+2008,45 to 54 years,Female,High School Graduate (includes equivalency),3529,33187
+2008,55 to 64 years,Female,High School Graduate (includes equivalency),2142,37731
+2008,65 years and over,Female,High School Graduate (includes equivalency),412,35335
+2008,18 to 24 years,Male,Associate Degree,303,31992
+2008,25 to 34 years,Male,Associate Degree,1228,48089
+2008,35 to 44 years,Male,Associate Degree,1388,57183
+2008,45 to 54 years,Male,Associate Degree,1463,60788
+2008,55 to 64 years,Male,Associate Degree,820,58959
+2008,65 years and over,Male,Associate Degree,122,53532
+2008,18 to 24 years,Female,Associate Degree,310,26814
+2008,25 to 34 years,Female,Associate Degree,1066,35091
+2008,35 to 44 years,Female,Associate Degree,1374,40393
+2008,45 to 54 years,Female,Associate Degree,1620,43734
+2008,55 to 64 years,Female,Associate Degree,804,43065
+2008,65 years and over,Female,Associate Degree,91,39202
+2008,18 to 24 years,Male,Bachelor's Degree,432,44656
+2008,25 to 34 years,Male,Bachelor's Degree,3233,62840
+2008,35 to 44 years,Male,Bachelor's Degree,3563,86705
+2008,45 to 54 years,Male,Bachelor's Degree,3256,94642
+2008,55 to 64 years,Male,Bachelor's Degree,2133,92615
+2008,65 years and over,Male,Bachelor's Degree,424,75366
+2008,18 to 24 years,Female,Bachelor's Degree,621,34898
+2008,25 to 34 years,Female,Bachelor's Degree,3041,46415
+2008,35 to 44 years,Female,Bachelor's Degree,2568,61713
+2008,45 to 54 years,Female,Bachelor's Degree,2554,59576
+2008,55 to 64 years,Female,Bachelor's Degree,1476,56013
+2008,65 years and over,Female,Bachelor's Degree,217,54349
+2008,18 to 24 years,Male,Master's Degree,NA,NA
+2008,25 to 34 years,Male,Master's Degree,900,71637
+2008,35 to 44 years,Male,Master's Degree,1304,101308
+2008,45 to 54 years,Male,Master's Degree,1291,116129
+2008,55 to 64 years,Male,Master's Degree,1039,101706
+2008,65 years and over,Male,Master's Degree,175,90381
+2008,18 to 24 years,Female,Master's Degree,NA,NA
+2008,25 to 34 years,Female,Master's Degree,1023,56715
+2008,35 to 44 years,Female,Master's Degree,1067,67993
+2008,45 to 54 years,Female,Master's Degree,1114,68991
+2008,55 to 64 years,Female,Master's Degree,845,67103
+2008,65 years and over,Female,Master's Degree,127,68156
+2008,18 to 24 years,Male,Professional Degree,NA,NA
+2008,25 to 34 years,Male,Professional Degree,187,109109
+2008,35 to 44 years,Male,Professional Degree,344,161200
+2008,45 to 54 years,Male,Professional Degree,381,190909
+2008,55 to 64 years,Male,Professional Degree,329,174815
+2008,65 years and over,Male,Professional Degree,147,153926
+2008,18 to 24 years,Female,Professional Degree,NA,NA
+2008,25 to 34 years,Female,Professional Degree,204,78765
+2008,35 to 44 years,Female,Professional Degree,243,118409
+2008,45 to 54 years,Female,Professional Degree,205,102405
+2008,55 to 64 years,Female,Professional Degree,85,89164
+2008,65 years and over,Female,Professional Degree,NA,NA
+2008,18 to 24 years,Male,Doctorate Degree,NA,NA
+2008,25 to 34 years,Male,Doctorate Degree,149,112773
+2008,35 to 44 years,Male,Doctorate Degree,305,132350
+2008,45 to 54 years,Male,Doctorate Degree,313,133477
+2008,55 to 64 years,Male,Doctorate Degree,252,132074
+2008,65 years and over,Male,Doctorate Degree,100,111149
+2008,18 to 24 years,Female,Doctorate Degree,NA,NA
+2008,25 to 34 years,Female,Doctorate Degree,100,64662
+2008,35 to 44 years,Female,Doctorate Degree,144,76918
+2008,45 to 54 years,Female,Doctorate Degree,163,91212
+2008,55 to 64 years,Female,Doctorate Degree,131,96567
+2008,65 years and over,Female,Doctorate Degree,NA,NA
+2008,18 to 24 years,Male,9th to 12th Grade (no diploma),481,21305
+2008,25 to 34 years,Male,9th to 12th Grade (no diploma),897,32212
+2008,35 to 44 years,Male,9th to 12th Grade (no diploma),899,34998
+2008,45 to 54 years,Male,9th to 12th Grade (no diploma),809,34707
+2008,55 to 64 years,Male,9th to 12th Grade (no diploma),381,45244
+2008,65 years and over,Male,9th to 12th Grade (no diploma),132,34029
+2008,18 to 24 years,Female,9th to 12th Grade (no diploma),157,17228
+2008,25 to 34 years,Female,9th to 12th Grade (no diploma),304,18107
+2008,35 to 44 years,Female,9th to 12th Grade (no diploma),451,22348
+2008,45 to 54 years,Female,9th to 12th Grade (no diploma),473,24076
+2008,55 to 64 years,Female,9th to 12th Grade (no diploma),253,24744
+2008,65 years and over,Female,9th to 12th Grade (no diploma),88,27995
+2008,18 to 24 years,Male,Some College (no degree),1039,27591
+2008,25 to 34 years,Male,Some College (no degree),2652,44597
+2008,35 to 44 years,Male,Some College (no degree),2459,53937
+2008,45 to 54 years,Male,Some College (no degree),2546,58439
+2008,55 to 64 years,Male,Some College (no degree),1564,56486
+2008,65 years and over,Male,Some College (no degree),295,53022
+2008,18 to 24 years,Female,Some College (no degree),1025,24953
+2008,25 to 34 years,Female,Some College (no degree),1812,31592
+2008,35 to 44 years,Female,Some College (no degree),1888,38391
+2008,45 to 54 years,Female,Some College (no degree),2139,39153
+2008,55 to 64 years,Female,Some College (no degree),1358,41247
+2008,65 years and over,Female,Some College (no degree),258,40193
+2009,18 to 24 years,Male,Less than 9th Grade,128,20041
+2009,25 to 34 years,Male,Less than 9th Grade,381,25067
+2009,35 to 44 years,Male,Less than 9th Grade,452,26685
+2009,45 to 54 years,Male,Less than 9th Grade,353,28067
+2009,55 to 64 years,Male,Less than 9th Grade,257,29648
+2009,65 years and over,Male,Less than 9th Grade,119,27375
+2009,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2009,25 to 34 years,Female,Less than 9th Grade,156,18278
+2009,35 to 44 years,Female,Less than 9th Grade,206,19963
+2009,45 to 54 years,Female,Less than 9th Grade,204,19591
+2009,55 to 64 years,Female,Less than 9th Grade,169,20469
+2009,65 years and over,Female,Less than 9th Grade,NA,NA
+2009,18 to 24 years,Male,High School Graduate (includes equivalency),1541,27822
+2009,25 to 34 years,Male,High School Graduate (includes equivalency),3593,38037
+2009,35 to 44 years,Male,High School Graduate (includes equivalency),3978,43518
+2009,45 to 54 years,Male,High School Graduate (includes equivalency),4704,48224
+2009,55 to 64 years,Male,High School Graduate (includes equivalency),2424,47164
+2009,65 years and over,Male,High School Graduate (includes equivalency),559,55241
+2009,18 to 24 years,Female,High School Graduate (includes equivalency),857,22620
+2009,25 to 34 years,Female,High School Graduate (includes equivalency),1874,27993
+2009,35 to 44 years,Female,High School Graduate (includes equivalency),2549,32947
+2009,45 to 54 years,Female,High School Graduate (includes equivalency),3464,34145
+2009,55 to 64 years,Female,High School Graduate (includes equivalency),2187,34900
+2009,65 years and over,Female,High School Graduate (includes equivalency),394,36883
+2009,18 to 24 years,Male,Associate Degree,232,33915
+2009,25 to 34 years,Male,Associate Degree,1210,48313
+2009,35 to 44 years,Male,Associate Degree,1307,58689
+2009,45 to 54 years,Male,Associate Degree,1410,62000
+2009,55 to 64 years,Male,Associate Degree,789,58176
+2009,65 years and over,Male,Associate Degree,111,45783
+2009,18 to 24 years,Female,Associate Degree,264,26922
+2009,25 to 34 years,Female,Associate Degree,1158,36202
+2009,35 to 44 years,Female,Associate Degree,1278,42092
+2009,45 to 54 years,Female,Associate Degree,1579,47716
+2009,55 to 64 years,Female,Associate Degree,781,45938
+2009,65 years and over,Female,Associate Degree,129,42524
+2009,18 to 24 years,Male,Bachelor's Degree,445,41640
+2009,25 to 34 years,Male,Bachelor's Degree,3168,60441
+2009,35 to 44 years,Male,Bachelor's Degree,3460,86473
+2009,45 to 54 years,Male,Bachelor's Degree,3097,95787
+2009,55 to 64 years,Male,Bachelor's Degree,2137,78921
+2009,65 years and over,Male,Bachelor's Degree,427,73752
+2009,18 to 24 years,Female,Bachelor's Degree,555,31857
+2009,25 to 34 years,Female,Bachelor's Degree,3203,46602
+2009,35 to 44 years,Female,Bachelor's Degree,2540,58470
+2009,45 to 54 years,Female,Bachelor's Degree,2612,60266
+2009,55 to 64 years,Female,Bachelor's Degree,1484,55714
+2009,65 years and over,Female,Bachelor's Degree,227,56977
+2009,18 to 24 years,Male,Master's Degree,NA,NA
+2009,25 to 34 years,Male,Master's Degree,808,78138
+2009,35 to 44 years,Male,Master's Degree,1286,107522
+2009,45 to 54 years,Male,Master's Degree,1249,116378
+2009,55 to 64 years,Male,Master's Degree,1031,103580
+2009,65 years and over,Male,Master's Degree,201,77817
+2009,18 to 24 years,Female,Master's Degree,NA,NA
+2009,25 to 34 years,Female,Master's Degree,1011,62542
+2009,35 to 44 years,Female,Master's Degree,1042,69271
+2009,45 to 54 years,Female,Master's Degree,1137,79594
+2009,55 to 64 years,Female,Master's Degree,908,78125
+2009,65 years and over,Female,Master's Degree,164,66119
+2009,18 to 24 years,Male,Professional Degree,NA,NA
+2009,25 to 34 years,Male,Professional Degree,193,120966
+2009,35 to 44 years,Male,Professional Degree,270,168783
+2009,45 to 54 years,Male,Professional Degree,354,178064
+2009,55 to 64 years,Male,Professional Degree,363,180007
+2009,65 years and over,Male,Professional Degree,140,130867
+2009,18 to 24 years,Female,Professional Degree,NA,NA
+2009,25 to 34 years,Female,Professional Degree,139,83318
+2009,35 to 44 years,Female,Professional Degree,209,122889
+2009,45 to 54 years,Female,Professional Degree,139,130016
+2009,55 to 64 years,Female,Professional Degree,90,105453
+2009,65 years and over,Female,Professional Degree,NA,NA
+2009,18 to 24 years,Male,Doctorate Degree,NA,NA
+2009,25 to 34 years,Male,Doctorate Degree,146,92876
+2009,35 to 44 years,Male,Doctorate Degree,314,126014
+2009,45 to 54 years,Male,Doctorate Degree,366,131124
+2009,55 to 64 years,Male,Doctorate Degree,271,139618
+2009,65 years and over,Male,Doctorate Degree,116,112982
+2009,18 to 24 years,Female,Doctorate Degree,NA,NA
+2009,25 to 34 years,Female,Doctorate Degree,119,74977
+2009,35 to 44 years,Female,Doctorate Degree,159,87146
+2009,45 to 54 years,Female,Doctorate Degree,166,99850
+2009,55 to 64 years,Female,Doctorate Degree,121,107825
+2009,65 years and over,Female,Doctorate Degree,NA,NA
+2009,18 to 24 years,Male,9th to 12th Grade (no diploma),300,19556
+2009,25 to 34 years,Male,9th to 12th Grade (no diploma),815,27074
+2009,35 to 44 years,Male,9th to 12th Grade (no diploma),794,39949
+2009,45 to 54 years,Male,9th to 12th Grade (no diploma),728,36239
+2009,55 to 64 years,Male,9th to 12th Grade (no diploma),352,36837
+2009,65 years and over,Male,9th to 12th Grade (no diploma),106,35278
+2009,18 to 24 years,Female,9th to 12th Grade (no diploma),155,16921
+2009,25 to 34 years,Female,9th to 12th Grade (no diploma),356,21996
+2009,35 to 44 years,Female,9th to 12th Grade (no diploma),381,24218
+2009,45 to 54 years,Female,9th to 12th Grade (no diploma),423,23987
+2009,55 to 64 years,Female,9th to 12th Grade (no diploma),276,26729
+2009,65 years and over,Female,9th to 12th Grade (no diploma),83,25257
+2009,18 to 24 years,Male,Some College (no degree),873,29564
+2009,25 to 34 years,Male,Some College (no degree),2315,44020
+2009,35 to 44 years,Male,Some College (no degree),2164,55686
+2009,45 to 54 years,Male,Some College (no degree),2354,61072
+2009,55 to 64 years,Male,Some College (no degree),1490,60230
+2009,65 years and over,Male,Some College (no degree),286,58899
+2009,18 to 24 years,Female,Some College (no degree),929,21127
+2009,25 to 34 years,Female,Some College (no degree),1652,32229
+2009,35 to 44 years,Female,Some College (no degree),1744,38057
+2009,45 to 54 years,Female,Some College (no degree),2119,42068
+2009,55 to 64 years,Female,Some College (no degree),1388,41707
+2009,65 years and over,Female,Some College (no degree),261,36593
+2010,18 to 24 years,Male,Less than 9th Grade,128,21128
+2010,25 to 34 years,Male,Less than 9th Grade,379,25287
+2010,35 to 44 years,Male,Less than 9th Grade,464,29136
+2010,45 to 54 years,Male,Less than 9th Grade,424,31298
+2010,55 to 64 years,Male,Less than 9th Grade,255,31666
+2010,65 years and over,Male,Less than 9th Grade,112,35735
+2010,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2010,25 to 34 years,Female,Less than 9th Grade,132,19593
+2010,35 to 44 years,Female,Less than 9th Grade,180,19880
+2010,45 to 54 years,Female,Less than 9th Grade,239,19952
+2010,55 to 64 years,Female,Less than 9th Grade,150,21976
+2010,65 years and over,Female,Less than 9th Grade,NA,NA
+2010,18 to 24 years,Male,High School Graduate (includes equivalency),1437,24355
+2010,25 to 34 years,Male,High School Graduate (includes equivalency),3569,38734
+2010,35 to 44 years,Male,High School Graduate (includes equivalency),3820,45684
+2010,45 to 54 years,Male,High School Graduate (includes equivalency),4510,50266
+2010,55 to 64 years,Male,High School Graduate (includes equivalency),2545,50094
+2010,65 years and over,Male,High School Graduate (includes equivalency),598,48471
+2010,18 to 24 years,Female,High School Graduate (includes equivalency),771,20455
+2010,25 to 34 years,Female,High School Graduate (includes equivalency),1843,27701
+2010,35 to 44 years,Female,High School Graduate (includes equivalency),2365,32674
+2010,45 to 54 years,Female,High School Graduate (includes equivalency),3275,34373
+2010,55 to 64 years,Female,High School Graduate (includes equivalency),2264,35086
+2010,65 years and over,Female,High School Graduate (includes equivalency),487,34756
+2010,18 to 24 years,Male,Associate Degree,253,31509
+2010,25 to 34 years,Male,Associate Degree,1238,45853
+2010,35 to 44 years,Male,Associate Degree,1355,58021
+2010,45 to 54 years,Male,Associate Degree,1476,60959
+2010,55 to 64 years,Male,Associate Degree,832,58254
+2010,65 years and over,Male,Associate Degree,113,56159
+2010,18 to 24 years,Female,Associate Degree,274,27164
+2010,25 to 34 years,Female,Associate Degree,1171,37615
+2010,35 to 44 years,Female,Associate Degree,1231,41533
+2010,45 to 54 years,Female,Associate Degree,1591,47681
+2010,55 to 64 years,Female,Associate Degree,893,42497
+2010,65 years and over,Female,Associate Degree,142,42056
+2010,18 to 24 years,Male,Bachelor's Degree,396,42258
+2010,25 to 34 years,Male,Bachelor's Degree,3415,59528
+2010,35 to 44 years,Male,Bachelor's Degree,3426,85761
+2010,45 to 54 years,Male,Bachelor's Degree,3269,90147
+2010,55 to 64 years,Male,Bachelor's Degree,2250,89528
+2010,65 years and over,Male,Bachelor's Degree,410,65507
+2010,18 to 24 years,Female,Bachelor's Degree,532,34393
+2010,25 to 34 years,Female,Bachelor's Degree,3019,46877
+2010,35 to 44 years,Female,Bachelor's Degree,2579,60036
+2010,45 to 54 years,Female,Bachelor's Degree,2526,62888
+2010,55 to 64 years,Female,Bachelor's Degree,1585,58758
+2010,65 years and over,Female,Bachelor's Degree,237,54853
+2010,18 to 24 years,Male,Master's Degree,NA,NA
+2010,25 to 34 years,Male,Master's Degree,764,73053
+2010,35 to 44 years,Male,Master's Degree,1308,98483
+2010,45 to 54 years,Male,Master's Degree,1271,112836
+2010,55 to 64 years,Male,Master's Degree,1102,105628
+2010,65 years and over,Male,Master's Degree,250,94228
+2010,18 to 24 years,Female,Master's Degree,NA,NA
+2010,25 to 34 years,Female,Master's Degree,1078,55518
+2010,35 to 44 years,Female,Master's Degree,1187,74159
+2010,45 to 54 years,Female,Master's Degree,1208,74118
+2010,55 to 64 years,Female,Master's Degree,948,71823
+2010,65 years and over,Female,Master's Degree,168,68808
+2010,18 to 24 years,Male,Professional Degree,NA,NA
+2010,25 to 34 years,Male,Professional Degree,180,97841
+2010,35 to 44 years,Male,Professional Degree,250,183212
+2010,45 to 54 years,Male,Professional Degree,364,184857
+2010,55 to 64 years,Male,Professional Degree,311,196330
+2010,65 years and over,Male,Professional Degree,140,100688
+2010,18 to 24 years,Female,Professional Degree,NA,NA
+2010,25 to 34 years,Female,Professional Degree,166,70775
+2010,35 to 44 years,Female,Professional Degree,173,112692
+2010,45 to 54 years,Female,Professional Degree,135,102141
+2010,55 to 64 years,Female,Professional Degree,119,119122
+2010,65 years and over,Female,Professional Degree,NA,NA
+2010,18 to 24 years,Male,Doctorate Degree,NA,NA
+2010,25 to 34 years,Male,Doctorate Degree,156,89210
+2010,35 to 44 years,Male,Doctorate Degree,332,125999
+2010,45 to 54 years,Male,Doctorate Degree,297,127821
+2010,55 to 64 years,Male,Doctorate Degree,323,137388
+2010,65 years and over,Male,Doctorate Degree,158,142590
+2010,18 to 24 years,Female,Doctorate Degree,NA,NA
+2010,25 to 34 years,Female,Doctorate Degree,162,85522
+2010,35 to 44 years,Female,Doctorate Degree,191,95087
+2010,45 to 54 years,Female,Doctorate Degree,180,98894
+2010,55 to 64 years,Female,Doctorate Degree,156,99326
+2010,65 years and over,Female,Doctorate Degree,NA,NA
+2010,18 to 24 years,Male,9th to 12th Grade (no diploma),289,25203
+2010,25 to 34 years,Male,9th to 12th Grade (no diploma),717,29406
+2010,35 to 44 years,Male,9th to 12th Grade (no diploma),692,32991
+2010,45 to 54 years,Male,9th to 12th Grade (no diploma),692,37880
+2010,55 to 64 years,Male,9th to 12th Grade (no diploma),403,41382
+2010,65 years and over,Male,9th to 12th Grade (no diploma),108,33580
+2010,18 to 24 years,Female,9th to 12th Grade (no diploma),129,17099
+2010,25 to 34 years,Female,9th to 12th Grade (no diploma),284,20727
+2010,35 to 44 years,Female,9th to 12th Grade (no diploma),368,22527
+2010,45 to 54 years,Female,9th to 12th Grade (no diploma),394,23768
+2010,55 to 64 years,Female,9th to 12th Grade (no diploma),283,28047
+2010,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2010,18 to 24 years,Male,Some College (no degree),897,28244
+2010,25 to 34 years,Male,Some College (no degree),2186,43688
+2010,35 to 44 years,Male,Some College (no degree),2171,53813
+2010,45 to 54 years,Male,Some College (no degree),2215,59796
+2010,55 to 64 years,Male,Some College (no degree),1668,58434
+2010,65 years and over,Male,Some College (no degree),290,63466
+2010,18 to 24 years,Female,Some College (no degree),853,22615
+2010,25 to 34 years,Female,Some College (no degree),1677,31764
+2010,35 to 44 years,Female,Some College (no degree),1742,37817
+2010,45 to 54 years,Female,Some College (no degree),2080,41126
+2010,55 to 64 years,Female,Some College (no degree),1438,40621
+2010,65 years and over,Female,Some College (no degree),271,41568
+2011,18 to 24 years,Male,Less than 9th Grade,110,20560
+2011,25 to 34 years,Male,Less than 9th Grade,438,24506
+2011,35 to 44 years,Male,Less than 9th Grade,547,28092
+2011,45 to 54 years,Male,Less than 9th Grade,515,31793
+2011,55 to 64 years,Male,Less than 9th Grade,234,35265
+2011,65 years and over,Male,Less than 9th Grade,114,29381
+2011,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2011,25 to 34 years,Female,Less than 9th Grade,103,20434
+2011,35 to 44 years,Female,Less than 9th Grade,196,19731
+2011,45 to 54 years,Female,Less than 9th Grade,250,22961
+2011,55 to 64 years,Female,Less than 9th Grade,165,20948
+2011,65 years and over,Female,Less than 9th Grade,NA,NA
+2011,18 to 24 years,Male,High School Graduate (includes equivalency),1566,26851
+2011,25 to 34 years,Male,High School Graduate (includes equivalency),3688,37906
+2011,35 to 44 years,Male,High School Graduate (includes equivalency),3756,47607
+2011,45 to 54 years,Male,High School Graduate (includes equivalency),4487,52588
+2011,55 to 64 years,Male,High School Graduate (includes equivalency),2785,51288
+2011,65 years and over,Male,High School Graduate (includes equivalency),619,62400
+2011,18 to 24 years,Female,High School Graduate (includes equivalency),851,20298
+2011,25 to 34 years,Female,High School Graduate (includes equivalency),1802,28311
+2011,35 to 44 years,Female,High School Graduate (includes equivalency),2275,32701
+2011,45 to 54 years,Female,High School Graduate (includes equivalency),3274,34735
+2011,55 to 64 years,Female,High School Graduate (includes equivalency),2199,35815
+2011,65 years and over,Female,High School Graduate (includes equivalency),490,32779
+2011,18 to 24 years,Male,Associate Degree,320,28753
+2011,25 to 34 years,Male,Associate Degree,1295,47340
+2011,35 to 44 years,Male,Associate Degree,1386,62159
+2011,45 to 54 years,Male,Associate Degree,1469,65129
+2011,55 to 64 years,Male,Associate Degree,899,63717
+2011,65 years and over,Male,Associate Degree,157,51011
+2011,18 to 24 years,Female,Associate Degree,348,25032
+2011,25 to 34 years,Female,Associate Degree,1113,39133
+2011,35 to 44 years,Female,Associate Degree,1366,43881
+2011,45 to 54 years,Female,Associate Degree,1489,44501
+2011,55 to 64 years,Female,Associate Degree,999,47603
+2011,65 years and over,Female,Associate Degree,164,42104
+2011,18 to 24 years,Male,Bachelor's Degree,461,42572
+2011,25 to 34 years,Male,Bachelor's Degree,3483,60655
+2011,35 to 44 years,Male,Bachelor's Degree,3398,85947
+2011,45 to 54 years,Male,Bachelor's Degree,3311,95671
+2011,55 to 64 years,Male,Bachelor's Degree,2285,88673
+2011,65 years and over,Male,Bachelor's Degree,537,79202
+2011,18 to 24 years,Female,Bachelor's Degree,533,34592
+2011,25 to 34 years,Female,Bachelor's Degree,3201,48365
+2011,35 to 44 years,Female,Bachelor's Degree,2665,63362
+2011,45 to 54 years,Female,Bachelor's Degree,2671,66526
+2011,55 to 64 years,Female,Bachelor's Degree,1723,63490
+2011,65 years and over,Female,Bachelor's Degree,278,55642
+2011,18 to 24 years,Male,Master's Degree,NA,NA
+2011,25 to 34 years,Male,Master's Degree,818,81615
+2011,35 to 44 years,Male,Master's Degree,1422,102758
+2011,45 to 54 years,Male,Master's Degree,1286,121902
+2011,55 to 64 years,Male,Master's Degree,1048,117806
+2011,65 years and over,Male,Master's Degree,264,110276
+2011,18 to 24 years,Female,Master's Degree,NA,NA
+2011,25 to 34 years,Female,Master's Degree,1106,56563
+2011,35 to 44 years,Female,Master's Degree,1292,77029
+2011,45 to 54 years,Female,Master's Degree,1177,74884
+2011,55 to 64 years,Female,Master's Degree,958,80272
+2011,65 years and over,Female,Master's Degree,166,80611
+2011,18 to 24 years,Male,Professional Degree,NA,NA
+2011,25 to 34 years,Male,Professional Degree,227,116037
+2011,35 to 44 years,Male,Professional Degree,276,166817
+2011,45 to 54 years,Male,Professional Degree,362,168116
+2011,55 to 64 years,Male,Professional Degree,303,197558
+2011,65 years and over,Male,Professional Degree,132,128329
+2011,18 to 24 years,Female,Professional Degree,NA,NA
+2011,25 to 34 years,Female,Professional Degree,185,84250
+2011,35 to 44 years,Female,Professional Degree,160,105560
+2011,45 to 54 years,Female,Professional Degree,152,129888
+2011,55 to 64 years,Female,Professional Degree,120,129972
+2011,65 years and over,Female,Professional Degree,NA,NA
+2011,18 to 24 years,Male,Doctorate Degree,NA,NA
+2011,25 to 34 years,Male,Doctorate Degree,130,77444
+2011,35 to 44 years,Male,Doctorate Degree,323,125088
+2011,45 to 54 years,Male,Doctorate Degree,311,154832
+2011,55 to 64 years,Male,Doctorate Degree,332,143956
+2011,65 years and over,Male,Doctorate Degree,175,126126
+2011,18 to 24 years,Female,Doctorate Degree,NA,NA
+2011,25 to 34 years,Female,Doctorate Degree,151,74781
+2011,35 to 44 years,Female,Doctorate Degree,190,87625
+2011,45 to 54 years,Female,Doctorate Degree,150,97765
+2011,55 to 64 years,Female,Doctorate Degree,154,130408
+2011,65 years and over,Female,Doctorate Degree,NA,NA
+2011,18 to 24 years,Male,9th to 12th Grade (no diploma),249,23360
+2011,25 to 34 years,Male,9th to 12th Grade (no diploma),738,29997
+2011,35 to 44 years,Male,9th to 12th Grade (no diploma),719,35796
+2011,45 to 54 years,Male,9th to 12th Grade (no diploma),717,40075
+2011,55 to 64 years,Male,9th to 12th Grade (no diploma),389,44123
+2011,65 years and over,Male,9th to 12th Grade (no diploma),152,37513
+2011,18 to 24 years,Female,9th to 12th Grade (no diploma),121,16217
+2011,25 to 34 years,Female,9th to 12th Grade (no diploma),268,22267
+2011,35 to 44 years,Female,9th to 12th Grade (no diploma),380,23881
+2011,45 to 54 years,Female,9th to 12th Grade (no diploma),392,23115
+2011,55 to 64 years,Female,9th to 12th Grade (no diploma),246,23048
+2011,65 years and over,Female,9th to 12th Grade (no diploma),95,24239
+2011,18 to 24 years,Male,Some College (no degree),924,26647
+2011,25 to 34 years,Male,Some College (no degree),2211,45507
+2011,35 to 44 years,Male,Some College (no degree),2271,56302
+2011,45 to 54 years,Male,Some College (no degree),2259,62556
+2011,55 to 64 years,Male,Some College (no degree),1603,63845
+2011,65 years and over,Male,Some College (no degree),408,54293
+2011,18 to 24 years,Female,Some College (no degree),831,21760
+2011,25 to 34 years,Female,Some College (no degree),1656,32269
+2011,35 to 44 years,Female,Some College (no degree),1670,38091
+2011,45 to 54 years,Female,Some College (no degree),2003,42415
+2011,55 to 64 years,Female,Some College (no degree),1398,40697
+2011,65 years and over,Female,Some College (no degree),262,38925
+2012,18 to 24 years,Male,Less than 9th Grade,98,22810
+2012,25 to 34 years,Male,Less than 9th Grade,419,25033
+2012,35 to 44 years,Male,Less than 9th Grade,538,26969
+2012,45 to 54 years,Male,Less than 9th Grade,452,29367
+2012,55 to 64 years,Male,Less than 9th Grade,276,34379
+2012,65 years and over,Male,Less than 9th Grade,108,33254
+2012,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2012,25 to 34 years,Female,Less than 9th Grade,101,19138
+2012,35 to 44 years,Female,Less than 9th Grade,178,25525
+2012,45 to 54 years,Female,Less than 9th Grade,202,21532
+2012,55 to 64 years,Female,Less than 9th Grade,170,21332
+2012,65 years and over,Female,Less than 9th Grade,NA,NA
+2012,18 to 24 years,Male,High School Graduate (includes equivalency),1538,28023
+2012,25 to 34 years,Male,High School Graduate (includes equivalency),3738,39092
+2012,35 to 44 years,Male,High School Graduate (includes equivalency),3667,48906
+2012,45 to 54 years,Male,High School Graduate (includes equivalency),4327,50178
+2012,55 to 64 years,Male,High School Graduate (includes equivalency),2942,54170
+2012,65 years and over,Male,High School Graduate (includes equivalency),621,55406
+2012,18 to 24 years,Female,High School Graduate (includes equivalency),745,23543
+2012,25 to 34 years,Female,High School Graduate (includes equivalency),1779,27812
+2012,35 to 44 years,Female,High School Graduate (includes equivalency),2226,32585
+2012,45 to 54 years,Female,High School Graduate (includes equivalency),3076,35926
+2012,55 to 64 years,Female,High School Graduate (includes equivalency),2289,36871
+2012,65 years and over,Female,High School Graduate (includes equivalency),500,36550
+2012,18 to 24 years,Male,Associate Degree,314,29191
+2012,25 to 34 years,Male,Associate Degree,1319,49153
+2012,35 to 44 years,Male,Associate Degree,1404,58341
+2012,45 to 54 years,Male,Associate Degree,1520,64159
+2012,55 to 64 years,Male,Associate Degree,979,56609
+2012,65 years and over,Male,Associate Degree,201,59129
+2012,18 to 24 years,Female,Associate Degree,328,25583
+2012,25 to 34 years,Female,Associate Degree,1205,36295
+2012,35 to 44 years,Female,Associate Degree,1262,40988
+2012,45 to 54 years,Female,Associate Degree,1523,44899
+2012,55 to 64 years,Female,Associate Degree,1065,46386
+2012,65 years and over,Female,Associate Degree,190,46481
+2012,18 to 24 years,Male,Bachelor's Degree,490,42867
+2012,25 to 34 years,Male,Bachelor's Degree,3697,63775
+2012,35 to 44 years,Male,Bachelor's Degree,3397,85925
+2012,45 to 54 years,Male,Bachelor's Degree,3402,96591
+2012,55 to 64 years,Male,Bachelor's Degree,2206,85266
+2012,65 years and over,Male,Bachelor's Degree,613,94626
+2012,18 to 24 years,Female,Bachelor's Degree,503,35514
+2012,25 to 34 years,Female,Bachelor's Degree,3315,48212
+2012,35 to 44 years,Female,Bachelor's Degree,2699,61622
+2012,45 to 54 years,Female,Bachelor's Degree,2825,62222
+2012,55 to 64 years,Female,Bachelor's Degree,1841,63527
+2012,65 years and over,Female,Bachelor's Degree,281,69795
+2012,18 to 24 years,Male,Master's Degree,NA,NA
+2012,25 to 34 years,Male,Master's Degree,862,78614
+2012,35 to 44 years,Male,Master's Degree,1423,108027
+2012,45 to 54 years,Male,Master's Degree,1381,115702
+2012,55 to 64 years,Male,Master's Degree,1055,107949
+2012,65 years and over,Male,Master's Degree,282,112292
+2012,18 to 24 years,Female,Master's Degree,NA,NA
+2012,25 to 34 years,Female,Master's Degree,1243,60732
+2012,35 to 44 years,Female,Master's Degree,1347,72609
+2012,45 to 54 years,Female,Master's Degree,1165,81156
+2012,55 to 64 years,Female,Master's Degree,963,77155
+2012,65 years and over,Female,Master's Degree,168,56573
+2012,18 to 24 years,Male,Professional Degree,NA,NA
+2012,25 to 34 years,Male,Professional Degree,185,103019
+2012,35 to 44 years,Male,Professional Degree,336,170158
+2012,45 to 54 years,Male,Professional Degree,311,179967
+2012,55 to 64 years,Male,Professional Degree,337,194801
+2012,65 years and over,Male,Professional Degree,132,201087
+2012,18 to 24 years,Female,Professional Degree,NA,NA
+2012,25 to 34 years,Female,Professional Degree,134,97482
+2012,35 to 44 years,Female,Professional Degree,185,147567
+2012,45 to 54 years,Female,Professional Degree,168,119231
+2012,55 to 64 years,Female,Professional Degree,153,169852
+2012,65 years and over,Female,Professional Degree,NA,NA
+2012,18 to 24 years,Male,Doctorate Degree,NA,NA
+2012,25 to 34 years,Male,Doctorate Degree,186,94422
+2012,35 to 44 years,Male,Doctorate Degree,343,135599
+2012,45 to 54 years,Male,Doctorate Degree,351,162643
+2012,55 to 64 years,Male,Doctorate Degree,349,170184
+2012,65 years and over,Male,Doctorate Degree,204,150642
+2012,18 to 24 years,Female,Doctorate Degree,NA,NA
+2012,25 to 34 years,Female,Doctorate Degree,155,78075
+2012,35 to 44 years,Female,Doctorate Degree,207,90510
+2012,45 to 54 years,Female,Doctorate Degree,173,95601
+2012,55 to 64 years,Female,Doctorate Degree,158,120205
+2012,65 years and over,Female,Doctorate Degree,NA,NA
+2012,18 to 24 years,Male,9th to 12th Grade (no diploma),298,22759
+2012,25 to 34 years,Male,9th to 12th Grade (no diploma),769,32285
+2012,35 to 44 years,Male,9th to 12th Grade (no diploma),713,34617
+2012,45 to 54 years,Male,9th to 12th Grade (no diploma),724,37547
+2012,55 to 64 years,Male,9th to 12th Grade (no diploma),332,35650
+2012,65 years and over,Male,9th to 12th Grade (no diploma),133,34863
+2012,18 to 24 years,Female,9th to 12th Grade (no diploma),117,19497
+2012,25 to 34 years,Female,9th to 12th Grade (no diploma),307,20911
+2012,35 to 44 years,Female,9th to 12th Grade (no diploma),371,31293
+2012,45 to 54 years,Female,9th to 12th Grade (no diploma),353,23648
+2012,55 to 64 years,Female,9th to 12th Grade (no diploma),224,27809
+2012,65 years and over,Female,9th to 12th Grade (no diploma),97,22521
+2012,18 to 24 years,Male,Some College (no degree),973,26938
+2012,25 to 34 years,Male,Some College (no degree),2346,45013
+2012,35 to 44 years,Male,Some College (no degree),2348,58209
+2012,45 to 54 years,Male,Some College (no degree),2237,64964
+2012,55 to 64 years,Male,Some College (no degree),1697,67342
+2012,65 years and over,Male,Some College (no degree),345,59117
+2012,18 to 24 years,Female,Some College (no degree),948,22092
+2012,25 to 34 years,Female,Some College (no degree),1627,31545
+2012,35 to 44 years,Female,Some College (no degree),1576,40746
+2012,45 to 54 years,Female,Some College (no degree),1912,42952
+2012,55 to 64 years,Female,Some College (no degree),1483,43297
+2012,65 years and over,Female,Some College (no degree),302,37404
+2013,18 to 24 years,Male,Less than 9th Grade,NA,NA
+2013,18 to 24 years,Male,Less than 9th Grade,123,22366
+2013,25 to 34 years,Male,Less than 9th Grade,452,40397
+2013,25 to 34 years,Male,Less than 9th Grade,382,27407
+2013,35 to 44 years,Male,Less than 9th Grade,669,24536
+2013,35 to 44 years,Male,Less than 9th Grade,610,29879
+2013,45 to 54 years,Male,Less than 9th Grade,440,32179
+2013,45 to 54 years,Male,Less than 9th Grade,505,40392
+2013,55 to 64 years,Male,Less than 9th Grade,287,30697
+2013,55 to 64 years,Male,Less than 9th Grade,341,33676
+2013,65 years and over,Male,Less than 9th Grade,133,28106
+2013,65 years and over,Male,Less than 9th Grade,106,34091
+2013,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2013,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2013,25 to 34 years,Female,Less than 9th Grade,NA,NA
+2013,25 to 34 years,Female,Less than 9th Grade,128,20690
+2013,35 to 44 years,Female,Less than 9th Grade,220,20145
+2013,35 to 44 years,Female,Less than 9th Grade,186,20862
+2013,45 to 54 years,Female,Less than 9th Grade,207,25544
+2013,45 to 54 years,Female,Less than 9th Grade,244,22458
+2013,55 to 64 years,Female,Less than 9th Grade,186,22644
+2013,55 to 64 years,Female,Less than 9th Grade,169,22071
+2013,65 years and over,Female,Less than 9th Grade,NA,NA
+2013,65 years and over,Female,Less than 9th Grade,NA,NA
+2013,18 to 24 years,Male,High School Graduate (includes equivalency),1773,31354
+2013,18 to 24 years,Male,High School Graduate (includes equivalency),1619,29554
+2013,25 to 34 years,Male,High School Graduate (includes equivalency),3663,40270
+2013,25 to 34 years,Male,High School Graduate (includes equivalency),3866,37300
+2013,35 to 44 years,Male,High School Graduate (includes equivalency),3944,49340
+2013,35 to 44 years,Male,High School Graduate (includes equivalency),3833,46864
+2013,45 to 54 years,Male,High School Graduate (includes equivalency),4537,50624
+2013,45 to 54 years,Male,High School Graduate (includes equivalency),4365,49049
+2013,55 to 64 years,Male,High School Graduate (includes equivalency),3073,47283
+2013,55 to 64 years,Male,High School Graduate (includes equivalency),3245,52498
+2013,65 years and over,Male,High School Graduate (includes equivalency),688,41175
+2013,65 years and over,Male,High School Graduate (includes equivalency),725,47985
+2013,18 to 24 years,Female,High School Graduate (includes equivalency),898,22762
+2013,18 to 24 years,Female,High School Graduate (includes equivalency),901,23023
+2013,25 to 34 years,Female,High School Graduate (includes equivalency),1682,28953
+2013,25 to 34 years,Female,High School Graduate (includes equivalency),1680,35555
+2013,35 to 44 years,Female,High School Graduate (includes equivalency),2301,32386
+2013,35 to 44 years,Female,High School Graduate (includes equivalency),2111,32602
+2013,45 to 54 years,Female,High School Graduate (includes equivalency),3103,33336
+2013,45 to 54 years,Female,High School Graduate (includes equivalency),3126,37503
+2013,55 to 64 years,Female,High School Graduate (includes equivalency),2172,36174
+2013,55 to 64 years,Female,High School Graduate (includes equivalency),2513,37674
+2013,65 years and over,Female,High School Graduate (includes equivalency),582,38432
+2013,65 years and over,Female,High School Graduate (includes equivalency),561,34734
+2013,18 to 24 years,Male,Associate Degree,271,29183
+2013,18 to 24 years,Male,Associate Degree,281,33552
+2013,25 to 34 years,Male,Associate Degree,1556,48040
+2013,25 to 34 years,Male,Associate Degree,1436,50127
+2013,35 to 44 years,Male,Associate Degree,1276,56877
+2013,35 to 44 years,Male,Associate Degree,1486,59467
+2013,45 to 54 years,Male,Associate Degree,1525,64175
+2013,45 to 54 years,Male,Associate Degree,1540,64205
+2013,55 to 64 years,Male,Associate Degree,970,59228
+2013,55 to 64 years,Male,Associate Degree,956,63279
+2013,65 years and over,Male,Associate Degree,228,53051
+2013,65 years and over,Male,Associate Degree,186,48238
+2013,18 to 24 years,Female,Associate Degree,363,25027
+2013,18 to 24 years,Female,Associate Degree,361,26994
+2013,25 to 34 years,Female,Associate Degree,1221,38128
+2013,25 to 34 years,Female,Associate Degree,1257,35535
+2013,35 to 44 years,Female,Associate Degree,1301,45221
+2013,35 to 44 years,Female,Associate Degree,1353,41200
+2013,45 to 54 years,Female,Associate Degree,1501,45638
+2013,45 to 54 years,Female,Associate Degree,1442,47517
+2013,55 to 64 years,Female,Associate Degree,1094,44303
+2013,55 to 64 years,Female,Associate Degree,1018,48876
+2013,65 years and over,Female,Associate Degree,257,66633
+2013,65 years and over,Female,Associate Degree,183,44344
+2013,18 to 24 years,Male,Bachelor's Degree,536,45702
+2013,18 to 24 years,Male,Bachelor's Degree,546,42283
+2013,25 to 34 years,Male,Bachelor's Degree,3692,72850
+2013,25 to 34 years,Male,Bachelor's Degree,3622,62859
+2013,35 to 44 years,Male,Bachelor's Degree,3497,90458
+2013,35 to 44 years,Male,Bachelor's Degree,3354,86705
+2013,45 to 54 years,Male,Bachelor's Degree,3238,96308
+2013,45 to 54 years,Male,Bachelor's Degree,3498,95388
+2013,55 to 64 years,Male,Bachelor's Degree,2484,82310
+2013,55 to 64 years,Male,Bachelor's Degree,2192,88828
+2013,65 years and over,Male,Bachelor's Degree,647,83617
+2013,65 years and over,Male,Bachelor's Degree,712,82607
+2013,18 to 24 years,Female,Bachelor's Degree,647,41842
+2013,18 to 24 years,Female,Bachelor's Degree,660,35148
+2013,25 to 34 years,Female,Bachelor's Degree,3355,48686
+2013,25 to 34 years,Female,Bachelor's Degree,3358,49685
+2013,35 to 44 years,Female,Bachelor's Degree,2753,60930
+2013,35 to 44 years,Female,Bachelor's Degree,2691,61593
+2013,45 to 54 years,Female,Bachelor's Degree,2704,69215
+2013,45 to 54 years,Female,Bachelor's Degree,2840,63556
+2013,55 to 64 years,Female,Bachelor's Degree,1977,66122
+2013,55 to 64 years,Female,Bachelor's Degree,1852,62637
+2013,65 years and over,Female,Bachelor's Degree,269,54733
+2013,65 years and over,Female,Bachelor's Degree,383,58140
+2013,18 to 24 years,Male,Master's Degree,NA,NA
+2013,18 to 24 years,Male,Master's Degree,NA,NA
+2013,25 to 34 years,Male,Master's Degree,888,68703
+2013,25 to 34 years,Male,Master's Degree,998,82757
+2013,35 to 44 years,Male,Master's Degree,1583,105127
+2013,35 to 44 years,Male,Master's Degree,1412,109079
+2013,45 to 54 years,Male,Master's Degree,1515,114208
+2013,45 to 54 years,Male,Master's Degree,1417,122942
+2013,55 to 64 years,Male,Master's Degree,1072,129153
+2013,55 to 64 years,Male,Master's Degree,1033,122087
+2013,65 years and over,Male,Master's Degree,246,158512
+2013,65 years and over,Male,Master's Degree,287,88339
+2013,18 to 24 years,Female,Master's Degree,NA,NA
+2013,18 to 24 years,Female,Master's Degree,NA,NA
+2013,25 to 34 years,Female,Master's Degree,1178,56868
+2013,25 to 34 years,Female,Master's Degree,1252,55898
+2013,35 to 44 years,Female,Master's Degree,1421,70598
+2013,35 to 44 years,Female,Master's Degree,1412,72301
+2013,45 to 54 years,Female,Master's Degree,1227,72280
+2013,45 to 54 years,Female,Master's Degree,1193,75580
+2013,55 to 64 years,Female,Master's Degree,964,84808
+2013,55 to 64 years,Female,Master's Degree,935,76281
+2013,65 years and over,Female,Master's Degree,299,75448
+2013,65 years and over,Female,Master's Degree,171,90195
+2013,18 to 24 years,Male,Professional Degree,NA,NA
+2013,18 to 24 years,Male,Professional Degree,NA,NA
+2013,25 to 34 years,Male,Professional Degree,209,65169
+2013,25 to 34 years,Male,Professional Degree,188,100682
+2013,35 to 44 years,Male,Professional Degree,355,165257
+2013,35 to 44 years,Male,Professional Degree,301,190020
+2013,45 to 54 years,Male,Professional Degree,229,151824
+2013,45 to 54 years,Male,Professional Degree,295,204997
+2013,55 to 64 years,Male,Professional Degree,318,188414
+2013,55 to 64 years,Male,Professional Degree,320,217189
+2013,65 years and over,Male,Professional Degree,212,156128
+2013,65 years and over,Male,Professional Degree,145,206599
+2013,18 to 24 years,Female,Professional Degree,NA,NA
+2013,18 to 24 years,Female,Professional Degree,NA,NA
+2013,25 to 34 years,Female,Professional Degree,162,95785
+2013,25 to 34 years,Female,Professional Degree,201,85309
+2013,35 to 44 years,Female,Professional Degree,208,80454
+2013,35 to 44 years,Female,Professional Degree,209,127400
+2013,45 to 54 years,Female,Professional Degree,187,96641
+2013,45 to 54 years,Female,Professional Degree,187,124387
+2013,55 to 64 years,Female,Professional Degree,188,157129
+2013,55 to 64 years,Female,Professional Degree,165,141997
+2013,65 years and over,Female,Professional Degree,NA,NA
+2013,65 years and over,Female,Professional Degree,NA,NA
+2013,18 to 24 years,Male,Doctorate Degree,NA,NA
+2013,18 to 24 years,Male,Doctorate Degree,NA,NA
+2013,25 to 34 years,Male,Doctorate Degree,300,102141
+2013,25 to 34 years,Male,Doctorate Degree,174,85260
+2013,35 to 44 years,Male,Doctorate Degree,224,127338
+2013,35 to 44 years,Male,Doctorate Degree,352,164059
+2013,45 to 54 years,Male,Doctorate Degree,486,193036
+2013,45 to 54 years,Male,Doctorate Degree,369,156475
+2013,55 to 64 years,Male,Doctorate Degree,447,147029
+2013,55 to 64 years,Male,Doctorate Degree,365,147517
+2013,65 years and over,Male,Doctorate Degree,237,101445
+2013,65 years and over,Male,Doctorate Degree,215,139328
+2013,18 to 24 years,Female,Doctorate Degree,NA,NA
+2013,18 to 24 years,Female,Doctorate Degree,NA,NA
+2013,25 to 34 years,Female,Doctorate Degree,84,79647
+2013,25 to 34 years,Female,Doctorate Degree,149,81198
+2013,35 to 44 years,Female,Doctorate Degree,236,83774
+2013,35 to 44 years,Female,Doctorate Degree,210,95000
+2013,45 to 54 years,Female,Doctorate Degree,169,120001
+2013,45 to 54 years,Female,Doctorate Degree,184,90354
+2013,55 to 64 years,Female,Doctorate Degree,151,103919
+2013,55 to 64 years,Female,Doctorate Degree,144,103601
+2013,65 years and over,Female,Doctorate Degree,NA,NA
+2013,65 years and over,Female,Doctorate Degree,NA,NA
+2013,18 to 24 years,Male,9th to 12th Grade (no diploma),218,19587
+2013,18 to 24 years,Male,9th to 12th Grade (no diploma),259,24249
+2013,25 to 34 years,Male,9th to 12th Grade (no diploma),781,27786
+2013,25 to 34 years,Male,9th to 12th Grade (no diploma),805,32303
+2013,35 to 44 years,Male,9th to 12th Grade (no diploma),739,35575
+2013,35 to 44 years,Male,9th to 12th Grade (no diploma),744,35404
+2013,45 to 54 years,Male,9th to 12th Grade (no diploma),587,37924
+2013,45 to 54 years,Male,9th to 12th Grade (no diploma),806,40969
+2013,55 to 64 years,Male,9th to 12th Grade (no diploma),295,41598
+2013,55 to 64 years,Male,9th to 12th Grade (no diploma),401,54743
+2013,65 years and over,Male,9th to 12th Grade (no diploma),141,32853
+2013,65 years and over,Male,9th to 12th Grade (no diploma),154,41011
+2013,18 to 24 years,Female,9th to 12th Grade (no diploma),161,15867
+2013,18 to 24 years,Female,9th to 12th Grade (no diploma),107,22138
+2013,25 to 34 years,Female,9th to 12th Grade (no diploma),198,22460
+2013,25 to 34 years,Female,9th to 12th Grade (no diploma),295,23663
+2013,35 to 44 years,Female,9th to 12th Grade (no diploma),342,21882
+2013,35 to 44 years,Female,9th to 12th Grade (no diploma),339,27340
+2013,45 to 54 years,Female,9th to 12th Grade (no diploma),349,22977
+2013,45 to 54 years,Female,9th to 12th Grade (no diploma),381,24949
+2013,55 to 64 years,Female,9th to 12th Grade (no diploma),272,82625
+2013,55 to 64 years,Female,9th to 12th Grade (no diploma),208,37170
+2013,65 years and over,Female,9th to 12th Grade (no diploma),NA,NA
+2013,65 years and over,Female,9th to 12th Grade (no diploma),85,27373
+2013,18 to 24 years,Male,Some College (no degree),1193,40078
+2013,18 to 24 years,Male,Some College (no degree),1138,28530
+2013,25 to 34 years,Male,Some College (no degree),2363,42814
+2013,25 to 34 years,Male,Some College (no degree),2307,49323
+2013,35 to 44 years,Male,Some College (no degree),2367,54489
+2013,35 to 44 years,Male,Some College (no degree),2239,55202
+2013,45 to 54 years,Male,Some College (no degree),2294,65201
+2013,45 to 54 years,Male,Some College (no degree),2225,61707
+2013,55 to 64 years,Male,Some College (no degree),1840,65286
+2013,55 to 64 years,Male,Some College (no degree),1737,63574
+2013,65 years and over,Male,Some College (no degree),374,79240
+2013,65 years and over,Male,Some College (no degree),451,59478
+2013,18 to 24 years,Female,Some College (no degree),969,23247
+2013,18 to 24 years,Female,Some College (no degree),855,23585
+2013,25 to 34 years,Female,Some College (no degree),1646,35343
+2013,25 to 34 years,Female,Some College (no degree),1636,33400
+2013,35 to 44 years,Female,Some College (no degree),1504,39792
+2013,35 to 44 years,Female,Some College (no degree),1601,38760
+2013,45 to 54 years,Female,Some College (no degree),1925,45696
+2013,45 to 54 years,Female,Some College (no degree),2047,43336
+2013,55 to 64 years,Female,Some College (no degree),1504,42350
+2013,55 to 64 years,Female,Some College (no degree),1408,45128
+2013,65 years and over,Female,Some College (no degree),213,83252
+2013,65 years and over,Female,Some College (no degree),379,43757
+2014,18 to 24 years,Male,Less than 9th Grade,86,24260
+2014,25 to 34 years,Male,Less than 9th Grade,417,30120
+2014,35 to 44 years,Male,Less than 9th Grade,652,30605
+2014,45 to 54 years,Male,Less than 9th Grade,492,33190
+2014,55 to 64 years,Male,Less than 9th Grade,326,35566
+2014,65 years and over,Male,Less than 9th Grade,107,40118
+2014,18 to 24 years,Female,Less than 9th Grade,NA,NA
+2014,25 to 34 years,Female,Less than 9th Grade,90,22548
+2014,35 to 44 years,Female,Less than 9th Grade,260,22870
+2014,45 to 54 years,Female,Less than 9th Grade,215,23166
+2014,55 to 64 years,Female,Less than 9th Grade,172,43604
+2014,65 years and over,Female,Less than 9th Grade,NA,NA
+2014,18 to 24 years,Male,High School Graduate (includes equivalency),1717,30283
+2014,25 to 34 years,Male,High School Graduate (includes equivalency),4073,39492
+2014,35 to 44 years,Male,High School Graduate (includes equivalency),3921,48285
+2014,45 to 54 years,Male,High School Graduate (includes equivalency),4460,52586
+2014,55 to 64 years,Male,High School Graduate (includes equivalency),3181,52708
+2014,65 years and over,Male,High School Graduate (includes equivalency),794,53940
+2014,18 to 24 years,Female,High School Graduate (includes equivalency),1025,21779
+2014,25 to 34 years,Female,High School Graduate (includes equivalency),1798,30701
+2014,35 to 44 years,Female,High School Graduate (includes equivalency),2147,35521
+2014,45 to 54 years,Female,High School Graduate (includes equivalency),2919,36686
+2014,55 to 64 years,Female,High School Graduate (includes equivalency),2350,38509
+2014,65 years and over,Female,High School Graduate (includes equivalency),589,35738
+2014,18 to 24 years,Male,Associate Degree,285,32668
+2014,25 to 34 years,Male,Associate Degree,1413,48585
+2014,35 to 44 years,Male,Associate Degree,1445,59573
+2014,45 to 54 years,Male,Associate Degree,1456,67648
+2014,55 to 64 years,Male,Associate Degree,1100,71470
+2014,65 years and over,Male,Associate Degree,207,63273
+2014,18 to 24 years,Female,Associate Degree,341,26463
+2014,25 to 34 years,Female,Associate Degree,1297,37561
+2014,35 to 44 years,Female,Associate Degree,1354,43736
+2014,45 to 54 years,Female,Associate Degree,1500,45061
+2014,55 to 64 years,Female,Associate Degree,1044,50648
+2014,65 years and over,Female,Associate Degree,230,48446
+2014,18 to 24 years,Male,Bachelor's Degree,520,44933
+2014,25 to 34 years,Male,Bachelor's Degree,3902,65911
+2014,35 to 44 years,Male,Bachelor's Degree,3500,93003
+2014,45 to 54 years,Male,Bachelor's Degree,3472,98526
+2014,55 to 64 years,Male,Bachelor's Degree,2348,86381
+2014,65 years and over,Male,Bachelor's Degree,746,99681
+2014,18 to 24 years,Female,Bachelor's Degree,667,38995
+2014,25 to 34 years,Female,Bachelor's Degree,3389,51144
+2014,35 to 44 years,Female,Bachelor's Degree,2844,64345
+2014,45 to 54 years,Female,Bachelor's Degree,2921,65126
+2014,55 to 64 years,Female,Bachelor's Degree,1870,62158
+2014,65 years and over,Female,Bachelor's Degree,394,58204
+2014,18 to 24 years,Male,Master's Degree,NA,NA
+2014,25 to 34 years,Male,Master's Degree,1126,82203
+2014,35 to 44 years,Male,Master's Degree,1407,106310
+2014,45 to 54 years,Male,Master's Degree,1543,123040
+2014,55 to 64 years,Male,Master's Degree,1031,118053
+2014,65 years and over,Male,Master's Degree,293,97807
+2014,18 to 24 years,Female,Master's Degree,NA,NA
+2014,25 to 34 years,Female,Master's Degree,1285,58041
+2014,35 to 44 years,Female,Master's Degree,1473,71967
+2014,45 to 54 years,Female,Master's Degree,1245,75157
+2014,55 to 64 years,Female,Master's Degree,1075,74120
+2014,65 years and over,Female,Master's Degree,233,63813
+2014,18 to 24 years,Male,Professional Degree,NA,NA
+2014,25 to 34 years,Male,Professional Degree,244,101324
+2014,35 to 44 years,Male,Professional Degree,310,182016
+2014,45 to 54 years,Male,Professional Degree,316,225328
+2014,55 to 64 years,Male,Professional Degree,317,168322
+2014,65 years and over,Male,Professional Degree,171,168878
+2014,18 to 24 years,Female,Professional Degree,NA,NA
+2014,25 to 34 years,Female,Professional Degree,179,90741
+2014,35 to 44 years,Female,Professional Degree,205,139627
+2014,45 to 54 years,Female,Professional Degree,196,121861
+2014,55 to 64 years,Female,Professional Degree,143,122200
+2014,65 years and over,Female,Professional Degree,NA,NA
+2014,18 to 24 years,Male,Doctorate Degree,NA,NA
+2014,25 to 34 years,Male,Doctorate Degree,185,77096
+2014,35 to 44 years,Male,Doctorate Degree,330,121834
+2014,45 to 54 years,Male,Doctorate Degree,333,154792
+2014,55 to 64 years,Male,Doctorate Degree,336,135431
+2014,65 years and over,Male,Doctorate Degree,184,129989
+2014,18 to 24 years,Female,Doctorate Degree,NA,NA
+2014,25 to 34 years,Female,Doctorate Degree,158,81386
+2014,35 to 44 years,Female,Doctorate Degree,291,91643
+2014,45 to 54 years,Female,Doctorate Degree,192,115334
+2014,55 to 64 years,Female,Doctorate Degree,138,111110
+2014,65 years and over,Female,Doctorate Degree,NA,NA
+2014,18 to 24 years,Male,9th to 12th Grade (no diploma),260,37747
+2014,25 to 34 years,Male,9th to 12th Grade (no diploma),823,32886
+2014,35 to 44 years,Male,9th to 12th Grade (no diploma),826,43308
+2014,45 to 54 years,Male,9th to 12th Grade (no diploma),735,43575
+2014,55 to 64 years,Male,9th to 12th Grade (no diploma),520,41794
+2014,65 years and over,Male,9th to 12th Grade (no diploma),108,40775
+2014,18 to 24 years,Female,9th to 12th Grade (no diploma),139,19006
+2014,25 to 34 years,Female,9th to 12th Grade (no diploma),259,24190
+2014,35 to 44 years,Female,9th to 12th Grade (no diploma),352,25070
+2014,45 to 54 years,Female,9th to 12th Grade (no diploma),383,28171
+2014,55 to 64 years,Female,9th to 12th Grade (no diploma),269,26216
+2014,65 years and over,Female,9th to 12th Grade (no diploma),93,27821
+2014,18 to 24 years,Male,Some College (no degree),1054,29985
+2014,25 to 34 years,Male,Some College (no degree),2449,45037
+2014,35 to 44 years,Male,Some College (no degree),2260,57195
+2014,45 to 54 years,Male,Some College (no degree),2206,63989
+2014,55 to 64 years,Male,Some College (no degree),1880,64356
+2014,65 years and over,Male,Some College (no degree),485,58416
+2014,18 to 24 years,Female,Some College (no degree),987,23058
+2014,25 to 34 years,Female,Some College (no degree),1725,33154
+2014,35 to 44 years,Female,Some College (no degree),1700,39746
+2014,45 to 54 years,Female,Some College (no degree),1868,44888
+2014,55 to 64 years,Female,Some College (no degree),1533,45271
+2014,65 years and over,Female,Some College (no degree),414,41460
