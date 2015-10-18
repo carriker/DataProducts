@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lifetime Income Estimator</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Lifetime Income Estimator">
+  <meta name="author" content="Wayne Carriker">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Lifetime Income Estimator</h1>
+    <h2>A Data Products Production</h2>
+    <p>Wayne Carriker<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>It&#39;s Not About the Money, Money, Money...*</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>OK, so actually it is about the money.</h3>
+
+<h3>Do you wonder about how much you can make?</h3>
+
+<h3>Are you curious about the value of your education?</h3>
+
+<h3>Do you believe women only earn 77 cents for every dollar that men earn?</h3>
+
+<h3>What do you think Data Science can do for you?</h3>
+
+<h3>Fire up the Lifetime Income Estimator and find out!</h3>
+
+<ul>
+<li>Apologies to Jessie J...</li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-2" style="background:;">
+  <hgroup>
+    <h2>So What Does It Do?</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>The Lifetime Income Estimator uses US Census data from 1991 to 2014 to track
+income by gender, education level, and age group. Based on your inputs, it
+creates an appropriate subset of the data and then fits a linear model through
+the years of data in order to extrapolate potential earnings over your
+lifetime.</p>
+
+<p>This provides an extraordinarily accurate model of your precise earning
+potential. That, of course, is a total fabrication. What it does create is an
+estimate of the median income of someone in your situation in the United
+States. So, while you should NOT assume that the estimator can actually predict
+your precise earning potential, it can provide some insight into the factors
+that can influence your earning potential.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-3" style="background:;">
+  <hgroup>
+    <h2>Let&#39;s Look at an Example</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Let&#39;s see what a 35 year old (in 2015) female with a Master&#39;s degree is likely
+to earn working from 2005 (when she was 25) to 2030 (when she retires early at
+50.) There isn&#39;t enough room in these slides to show the entire algorithm, but
+it goes something like:</p>
+
+<pre><code class="r">data &lt;- read.csv(&quot;../census.csv&quot;)
+rows &lt;- (data$Gender == &quot;Female&quot;) &amp; (data$Education == &quot;Master&#39;s&quot;)
+years &lt;- data$Year[rows]; ages &lt;- data$Ages[rows]; incomes &lt;- data$Income[rows]
+mdata &lt;- data.frame(years, ages, incomes); fit &lt;- lm(incomes ~ ., data = mdata)
+
+years &lt;- seq(from = 2005, to = 2030)
+ages_yr &lt;- seq(from = 25, to = 50); ages &lt;- sapply(ages_yr, age_groups)
+test &lt;- data.frame(years, ages); earnings &lt;- predict(fit, newdata = test)
+sum(earnings)
+</code></pre>
+
+<p>The actual algorithm (not echoed here) produces:</p>
+
+<pre><code>## [1] 2063017
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-4" style="background:;">
+  <hgroup>
+    <h2>If Only She Had Completed Data Science...</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>According to the census data, the best thing she could have done was actually
+complete a professional degree. Let&#39;s assume that took an extra 3 years,
+reducing her years of employment to 2008 to 2030, but earning her an extra
+$881,807...</p>
+
+<pre><code>## [1] 2944824
+</code></pre>
+
+<p>But, that would also mean 3 more years of school and a job that she doesn&#39;t
+enjoy. Instead, she can complete the Data Science specialization this year and
+earn an extra $225,000 doing what she loves!</p>
+
+<pre><code>## [1] 2288017
+</code></pre>
+
+<p>Check it out at <a href="https://carriker.shinyapps.io/DataProducts">https://carriker.shinyapps.io/DataProducts</a></p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='It&#39;s Not About the Money, Money, Money...*'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='So What Does It Do?'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='Let&#39;s Look at an Example'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='If Only She Had Completed Data Science...'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
